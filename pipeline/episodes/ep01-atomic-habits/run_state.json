@@ -58,5 +58,13 @@
     "81": "2a39f143-4180-405e-899d-1d21c870351d",
     "83": "7f574186-e8de-476f-8183-0ed549de347f",
     "86": "74363a64-603b-4ef9-955a-aa2992838816"
+  },
+  "outputs": {
+    "clean_master": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/e5ec1155-86d3-4833-974c-5a5bc134d757.mp4",
+    "final_captioned": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/25311f4c-39a9-4e0d-b890-19b234c5fbfc.mp4",
+    "cover": "https://d8j0ntlcm91z4.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/hf_20260910_212408_87364af5-c25e-4745-95b4-643cff5f8016.png",
+    "duration_seconds": 83.27,
+    "resolution": "1080x1920",
+    "captions": "burned, bold tiktok face with outline, 58 cues, 202 words, whisper similarity 0.99"
   }
 }
