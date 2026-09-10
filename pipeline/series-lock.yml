@@ -1,0 +1,36 @@
+# Series lock. Set once, reused by every episode. Changing any value here breaks
+# visual continuity across the channel, so treat edits as a deliberate decision.
+
+series:
+  name: TBD
+  format: non_fiction_book_summary
+  channel_type: explainer          # Higgsfield faceless-video channel type
+  motion_mode: stills              # one held illustration per spoken beat
+  aspect: "9:16"
+  target_seconds: 85               # hard ceiling is 90s for Instagram Reels tab eligibility
+  subtitles: true                  # burned in, required for sound-off viewing
+  thumbnail: true                  # cover frame for YouTube and Instagram
+
+locked_assets:
+  style_preset_id: null            # set after the preset gallery pick
+  style_preset_name: null
+  narrator_voice_id: null          # set after the voice picker
+  narrator_voice_name: null
+  caption_style: null              # font, size, position, set in episode 1 and reused
+
+rights:
+  # Non-fiction summaries: ideas and facts are not copyrightable, expression is.
+  rules:
+    - Script written entirely in our own words from the book's ideas.
+    - No quoted passages from the book.
+    - No reproduction of cover art, trade dress, or publisher marks.
+    - No rendering of the author's likeness.
+    - Book title and author named as attribution only.
+  register: pipeline/rights-register.md
+
+publishing:
+  tier: manual                     # tier 1 for the pilot five
+  platforms: [instagram_reels, facebook_reels, youtube_shorts]
+  next_tier:
+    instagram_facebook: Meta Graph API, needs instagram_business_content_publish approval
+    youtube: YouTube Data API v3 videos.insert
