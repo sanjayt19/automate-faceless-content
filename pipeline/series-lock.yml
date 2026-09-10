@@ -12,10 +12,11 @@ series:
   thumbnail: true                  # cover frame for YouTube and Instagram
 
 locked_assets:
-  style_preset_id: null            # set after the preset gallery pick
-  style_preset_name: null
-  narrator_voice_id: null          # set after the voice picker
-  narrator_voice_name: null
+  style_preset_id: 56fc6472-33b7-45dc-83ff-80c71d40aec6
+  style_preset_name: Editorial Motion Graphics
+  narrator_voice_id: 30fc8796-ceb6-4a66-b3a7-4a145ef7f346
+  narrator_voice_type: preset
+  narrator_voice_name: Arthur
   caption_style: null              # font, size, position, set in episode 1 and reused
 
 rights:
