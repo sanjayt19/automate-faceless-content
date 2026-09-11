@@ -1,0 +1,32 @@
+{
+  "episode": "ep03-forty-companies",
+  "title": "Forty Companies In Forty Minutes",
+  "status": "frames in progress",
+  "narration_seconds": 82.9,
+  "beats": 40,
+  "frames": 88,
+  "narration_audio": "https://d8j0ntlcm91z4.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/hf_20260911_024807_ad92876c-bbab-4390-b1b9-c3631550b19e.wav",
+  "new_assets": {
+    "grid": "95274b84-9e10-4966-84e8-fb5d912c14f9",
+    "hourglass": "16e94bc6-9ece-4f6e-8bef-1630c1955f6b"
+  },
+  "new_frame_jobs": {
+    "1": "9494bc38-444c-46f1-b13b-870fa287180a",
+    "4": "2c13dfdc-eb21-4cb5-8241-15cfc2dd87f5",
+    "6": "2c8a119d-63e9-4abb-8ac8-56e87f3f0816",
+    "8": "8b9001a7-be96-4e16-bd30-cd9600480789",
+    "11": "63ea9006-bd38-408c-9aba-5256ef9a6bc9",
+    "14": "4f06dbcb-0a98-41e6-bb69-86106d1cd860",
+    "16": "eb857875-26ba-487e-997b-fc21316c8c9f",
+    "19": "8432e8c8-43a3-4a87-b678-804be260fd06",
+    "20": "e92ccc1a-c9a5-49c3-af0f-0a511ddb690d",
+    "23": "d6ff20f1-4fbb-44ac-8ee8-5fff1986006d",
+    "24": "64949797-be49-4468-b2c9-bb3f0bd8f965",
+    "27": "e3396b6e-56a7-4ea8-b86d-fb6f15c3b277",
+    "28": "8a83af18-3b3a-4190-9560-9b20a2cd3ca0",
+    "30": "c5277f4f-439b-40af-ac21-dd0ea4a0318a",
+    "33": "e875683b-27b6-47b6-bd9c-e627f7b3fbf0",
+    "35": "f46de170-e89d-4d21-9e05-8a28a47050de"
+  },
+  "remaining_new_frames": [38, 41, 44, 45, 48, 50, 53, 56, 57, 60, 61, 64, 65, 68, 69, 72, 75, 77, 80, 82, 85, 88]
+}
