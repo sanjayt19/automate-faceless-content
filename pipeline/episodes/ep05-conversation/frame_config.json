@@ -1,0 +1,172 @@
+{
+  "assets": {
+    "style_key": "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+    "book": "7051f741-cb8b-450d-a981-bfbe88bee329",
+    "character": "0f8a8c2b-02e6-41ac-85ca-1830f7511700",
+    "column": "f6c7e31c-6cb5-4fbc-8247-1923347f3861",
+    "door": "ff95868c-1e3b-4d69-ba4c-a5e4bf9a4904",
+    "form": "0daed658-abeb-4df3-bfa1-3ffe970b9344",
+    "grid": "95274b84-9e10-4966-84e8-fb5d912c14f9",
+    "hand": "c4f9cab5-dd4c-49ed-b9fd-7227ca986ee3",
+    "hourglass": "16e94bc6-9ece-4f6e-8bef-1630c1955f6b",
+    "stage": "5a140cec-03e4-4f51-a646-fa728429beee"
+  },
+  "beat_assets": {
+    "1": [
+      "stage",
+      "character"
+    ],
+    "2": [
+      "stage",
+      "character"
+    ],
+    "3": [
+      "stage",
+      "hourglass"
+    ],
+    "4": [
+      "stage",
+      "hourglass"
+    ],
+    "5": [
+      "stage",
+      "character",
+      "column"
+    ],
+    "6": [
+      "stage",
+      "character",
+      "column"
+    ],
+    "7": [
+      "stage",
+      "book"
+    ],
+    "8": [
+      "stage",
+      "book"
+    ],
+    "9": [
+      "stage"
+    ],
+    "10": [
+      "stage"
+    ],
+    "11": [
+      "stage",
+      "character"
+    ],
+    "12": [
+      "stage",
+      "character"
+    ],
+    "13": [
+      "stage"
+    ],
+    "14": [
+      "stage"
+    ],
+    "15": [
+      "stage",
+      "character"
+    ],
+    "16": [
+      "stage"
+    ],
+    "17": [
+      "stage"
+    ],
+    "18": [
+      "stage",
+      "character"
+    ],
+    "19": [
+      "stage"
+    ],
+    "20": [
+      "stage",
+      "book"
+    ],
+    "21": [
+      "stage",
+      "book"
+    ],
+    "22": [
+      "stage"
+    ],
+    "23": [
+      "stage",
+      "grid"
+    ],
+    "24": [
+      "stage",
+      "grid"
+    ],
+    "25": [
+      "stage"
+    ],
+    "26": [
+      "stage"
+    ],
+    "27": [
+      "stage",
+      "hand",
+      "form"
+    ],
+    "28": [
+      "stage",
+      "hand",
+      "form"
+    ],
+    "29": [
+      "stage",
+      "character"
+    ],
+    "30": [
+      "stage",
+      "character"
+    ],
+    "31": [
+      "stage",
+      "character"
+    ],
+    "32": [
+      "stage",
+      "door"
+    ],
+    "33": [
+      "stage",
+      "door"
+    ],
+    "34": [
+      "stage",
+      "form"
+    ],
+    "35": [
+      "stage",
+      "form"
+    ],
+    "36": [
+      "stage",
+      "hourglass"
+    ],
+    "37": [
+      "stage",
+      "hourglass"
+    ],
+    "38": [
+      "stage",
+      "hourglass"
+    ],
+    "39": [
+      "stage",
+      "character"
+    ],
+    "40": [
+      "stage",
+      "character"
+    ]
+  },
+  "var_scenes": {},
+  "extras": {}
+}

@@ -1,0 +1,293 @@
+{
+ "genre": "education",
+ "animation_mode": "scene_based",
+ "title": "The Fifteen Minutes That Change Everything",
+ "book": "The 2-Hour Job Search",
+ "author": "Steve Dalton",
+ "accent": "burnt orange",
+ "sources": [
+  "https://awesomeatyourjob.com/626-mastering-the-2-hour-job-search-that-generates-dream-interviews-with-steve-dalton/"
+ ],
+ "beats": [
+  {
+   "n": 1,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "They said yes, now what?",
+   "scene": "MEDIUM: two monochrome halftone cutout figures seated facing each other on the cream stage, a flat burnt orange disc behind them"
+  },
+  {
+   "n": 2,
+   "image_mode": "variation",
+   "variation_of": 1,
+   "phrase": "Most people waste it.",
+   "change_only": "a burnt orange cross stroke strikes through the space between the two figures"
+  },
+  {
+   "n": 3,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "You have fifteen minutes,",
+   "scene": "MEDIUM: a monochrome hourglass standing alone on the cream stage, a burnt orange arc drawn around its waist"
+  },
+  {
+   "n": 4,
+   "image_mode": "variation",
+   "variation_of": 3,
+   "phrase": "spend twelve of them listening.",
+   "change_only": "most of the orange sand drops into the lower chamber at once"
+  },
+  {
+   "n": 5,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "Do not pitch yourself,",
+   "scene": "MEDIUM: a monochrome cutout figure holding a large blank placard up toward another figure, a heavy burnt orange cross stroke over the placard"
+  },
+  {
+   "n": 6,
+   "image_mode": "variation",
+   "variation_of": 5,
+   "phrase": "nobody asked for that.",
+   "change_only": "the struck placard drops flat onto the stage"
+  },
+  {
+   "n": 7,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "Dalton hands you a ladder,",
+   "scene": "MEDIUM: a monochrome halftone book cutout standing upright on the cream stage with a hand-drawn burnt orange ladder of five rungs beside it"
+  },
+  {
+   "n": 8,
+   "image_mode": "variation",
+   "variation_of": 7,
+   "phrase": "five questions, strict order.",
+   "change_only": "all five orange rungs thicken into solid strokes"
+  },
+  {
+   "n": 9,
+   "image_mode": "new",
+   "shot": "CLOSE-UP",
+   "phrase": "You start with trends,",
+   "scene": "CLOSE-UP: the lowest rung of a hand-drawn burnt orange ladder picked out bright on the cream stage, the rungs above faded pale grey"
+  },
+  {
+   "n": 10,
+   "image_mode": "variation",
+   "variation_of": 9,
+   "phrase": "what is changing here?",
+   "change_only": "a small burnt orange arrow points at the bright lowest rung"
+  },
+  {
+   "n": 11,
+   "image_mode": "new",
+   "shot": "WIDE",
+   "phrase": "Everyone can answer that,",
+   "scene": "FULL-SPREAD: a row of small monochrome cutout figures across the cream stage, each with a small burnt orange tick above them"
+  },
+  {
+   "n": 12,
+   "image_mode": "variation",
+   "variation_of": 11,
+   "phrase": "it costs them nothing.",
+   "change_only": "every orange tick thickens at once"
+  },
+  {
+   "n": 13,
+   "image_mode": "new",
+   "shot": "CLOSE-UP",
+   "phrase": "Then ask for insights,",
+   "scene": "CLOSE-UP: the second rung of a hand-drawn burnt orange ladder picked out bright on the cream stage, the others pale grey"
+  },
+  {
+   "n": 14,
+   "image_mode": "variation",
+   "variation_of": 13,
+   "phrase": "what surprised you here?",
+   "change_only": "a burnt orange marker circle draws around the bright rung"
+  },
+  {
+   "n": 15,
+   "image_mode": "variation",
+   "variation_of": 14,
+   "phrase": "Now it is personal.",
+   "change_only": "a small monochrome cutout figure leans in at the edge of the frame"
+  },
+  {
+   "n": 16,
+   "image_mode": "new",
+   "shot": "CLOSE-UP",
+   "phrase": "Then you ask advice,",
+   "scene": "CLOSE-UP: the third rung of a hand-drawn burnt orange ladder picked out bright on the cream stage, the others pale grey"
+  },
+  {
+   "n": 17,
+   "image_mode": "variation",
+   "variation_of": 16,
+   "phrase": "what would you change?",
+   "change_only": "a burnt orange arrow curves down away from the bright rung"
+  },
+  {
+   "n": 18,
+   "image_mode": "variation",
+   "variation_of": 17,
+   "phrase": "People love giving advice.",
+   "change_only": "two small monochrome cutout figures appear leaning toward the rung"
+  },
+  {
+   "n": 19,
+   "image_mode": "new",
+   "shot": "CLOSE-UP",
+   "phrase": "Then you ask resources,",
+   "scene": "CLOSE-UP: the fourth rung of a hand-drawn burnt orange ladder picked out bright on the cream stage, the others pale grey"
+  },
+  {
+   "n": 20,
+   "image_mode": "variation",
+   "variation_of": 19,
+   "phrase": "what should I read?",
+   "change_only": "a small monochrome book cutout slides in beneath the bright rung"
+  },
+  {
+   "n": 21,
+   "image_mode": "variation",
+   "variation_of": 20,
+   "phrase": "Cheap for them, useful.",
+   "change_only": "the small book picks up a burnt orange edge stroke"
+  },
+  {
+   "n": 22,
+   "image_mode": "new",
+   "shot": "CLOSE-UP",
+   "phrase": "Assignments come last, on purpose,",
+   "scene": "CLOSE-UP: the top rung of a hand-drawn burnt orange ladder picked out bright on the cream stage, the rungs below faded pale grey"
+  },
+  {
+   "n": 23,
+   "image_mode": "variation",
+   "variation_of": 22,
+   "phrase": "what fills your week?",
+   "change_only": "a dense column of small blank monochrome cards rises beside the bright rung"
+  },
+  {
+   "n": 24,
+   "image_mode": "variation",
+   "variation_of": 23,
+   "phrase": "That is the real job.",
+   "change_only": "a burnt orange bracket draws around the whole column of cards"
+  },
+  {
+   "n": 25,
+   "image_mode": "new",
+   "shot": "WIDE",
+   "phrase": "Trends, insights, advice, resources, assignments,",
+   "scene": "FULL-SPREAD: a complete five rung hand-drawn burnt orange ladder standing tall against bare cream paper on the cream stage"
+  },
+  {
+   "n": 26,
+   "image_mode": "variation",
+   "variation_of": 25,
+   "phrase": "easy first, personal last.",
+   "change_only": "the ladder tilts forward toward the viewer"
+  },
+  {
+   "n": 27,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "Take notes while they talk,",
+   "scene": "MEDIUM: the oversized monochrome halftone hand drawing short burnt orange strokes onto a blank paper note on the cream stage"
+  },
+  {
+   "n": 28,
+   "image_mode": "variation",
+   "variation_of": 27,
+   "phrase": "do not interrupt to agree.",
+   "change_only": "the hand lifts clear of the note and the strokes stop"
+  },
+  {
+   "n": 29,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "Near the end, one ask,",
+   "scene": "MEDIUM: two monochrome cutout figures facing each other on the cream stage, a single burnt orange arrow leaving one of them"
+  },
+  {
+   "n": 30,
+   "image_mode": "variation",
+   "variation_of": 29,
+   "phrase": "who else should I meet?",
+   "change_only": "the arrow splits into three arrows fanning outward"
+  },
+  {
+   "n": 31,
+   "image_mode": "variation",
+   "variation_of": 30,
+   "phrase": "That is the only ask.",
+   "change_only": "two of the three arrows fade to pale grey"
+  },
+  {
+   "n": 32,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "Never request a referral,",
+   "scene": "MEDIUM: a monochrome door cutout standing on the cream stage with a heavy burnt orange cross stroke drawn over it"
+  },
+  {
+   "n": 33,
+   "image_mode": "variation",
+   "variation_of": 32,
+   "phrase": "referrals are offered, not requested.",
+   "change_only": "a burnt orange arc arrives from outside the frame toward the door"
+  },
+  {
+   "n": 34,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "Send thanks the same day,",
+   "scene": "MEDIUM: a single small blank monochrome note on the cream stage edged burnt orange, a small orange arrow rising from it"
+  },
+  {
+   "n": 35,
+   "image_mode": "variation",
+   "variation_of": 34,
+   "phrase": "three lines, one specific thing.",
+   "change_only": "three short burnt orange strokes stack up on the note"
+  },
+  {
+   "n": 36,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "Then wait a full week,",
+   "scene": "MEDIUM: a monochrome hourglass on the cream stage half run through with burnt orange sand, bare cream paper around it"
+  },
+  {
+   "n": 37,
+   "image_mode": "variation",
+   "variation_of": 36,
+   "phrase": "write back what you did.",
+   "change_only": "the orange sand finishes running into the lower chamber"
+  },
+  {
+   "n": 38,
+   "image_mode": "variation",
+   "variation_of": 37,
+   "phrase": "Almost nobody ever does this.",
+   "change_only": "a burnt orange marker circle draws around the emptied hourglass"
+  },
+  {
+   "n": 39,
+   "image_mode": "new",
+   "shot": "WIDE",
+   "phrase": "One conversation becomes three,",
+   "scene": "FULL-SPREAD: one monochrome cutout figure on the cream stage with three burnt orange strokes branching away toward three smaller figures"
+  },
+  {
+   "n": 40,
+   "image_mode": "new",
+   "shot": "WIDE",
+   "phrase": "that is the whole engine.",
+   "scene": "FULL-SPREAD: a wide branching burnt orange network of hand-drawn strokes spreading across the cream stage between small monochrome cutout figures"
+  }
+ ]
+}

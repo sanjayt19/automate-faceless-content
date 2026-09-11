@@ -1,0 +1,294 @@
+{
+ "genre": "education",
+ "animation_mode": "scene_based",
+ "title": "The Message That Actually Gets Answered",
+ "book": "The 2-Hour Job Search",
+ "author": "Steve Dalton",
+ "accent": "burnt orange",
+ "sources": [
+  "https://www.axios.com/2026/08/21/job-seekers-ai-hiring-ghost-jobs-trust",
+  "https://awesomeatyourjob.com/626-mastering-the-2-hour-job-search-that-generates-dream-interviews-with-steve-dalton/"
+ ],
+ "beats": [
+  {
+   "n": 1,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "Your message is not read,",
+   "scene": "MEDIUM: a single blank monochrome paper note lying flat on the cream stage, a burnt orange marker cross stroke drawn over it"
+  },
+  {
+   "n": 2,
+   "image_mode": "variation",
+   "variation_of": 1,
+   "phrase": "it is pattern matched.",
+   "change_only": "a monochrome mesh grid drops over the note"
+  },
+  {
+   "n": 3,
+   "image_mode": "new",
+   "shot": "WIDE",
+   "phrase": "Inboxes overflow with slop,",
+   "scene": "FULL-SPREAD: a dense stack of identical blank monochrome paper notes filling the cream stage, one note popped burnt orange among them"
+  },
+  {
+   "n": 4,
+   "image_mode": "variation",
+   "variation_of": 3,
+   "phrase": "polite, fluent, and forgettable.",
+   "change_only": "every note turns the same pale grey and the orange one vanishes"
+  },
+  {
+   "n": 5,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "Recruiters learned the shape,",
+   "scene": "MEDIUM: a monochrome cutout figure at a desk sweeping a row of identical notes aside with one hand, a burnt orange arrow trailing the sweep"
+  },
+  {
+   "n": 6,
+   "image_mode": "variation",
+   "variation_of": 5,
+   "phrase": "they delete on sight.",
+   "change_only": "the swept notes drop off the bottom edge of the frame"
+  },
+  {
+   "n": 7,
+   "image_mode": "new",
+   "shot": "CLOSE-UP",
+   "phrase": "The old template is dead,",
+   "scene": "CLOSE-UP: a single monochrome paper note with a heavy burnt orange marker cross drawn corner to corner"
+  },
+  {
+   "n": 8,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "but Dalton's rule holds.",
+   "scene": "MEDIUM: a monochrome halftone book cutout standing upright on the cream stage, a flat burnt orange disc behind it"
+  },
+  {
+   "n": 9,
+   "image_mode": "variation",
+   "variation_of": 8,
+   "phrase": "Keep it short and plain,",
+   "change_only": "a small blank note leans against the base of the book"
+  },
+  {
+   "n": 10,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "six lines, that is all.",
+   "scene": "MEDIUM: a single blank paper note on the cream stage with six short horizontal burnt orange strokes stacked on it, no letters"
+  },
+  {
+   "n": 11,
+   "image_mode": "variation",
+   "variation_of": 10,
+   "phrase": "No pitch, no resume,",
+   "change_only": "a thick block of dense grey lines beside it is struck out in orange"
+  },
+  {
+   "n": 12,
+   "image_mode": "new",
+   "shot": "CLOSE-UP",
+   "phrase": "line one, who you are.",
+   "scene": "CLOSE-UP: the top short burnt orange stroke on the note, the rest of the strokes faded to pale monochrome"
+  },
+  {
+   "n": 13,
+   "image_mode": "variation",
+   "variation_of": 12,
+   "phrase": "Two lines, not ten,",
+   "change_only": "a long trailing grey line beside it shrinks to a stub"
+  },
+  {
+   "n": 14,
+   "image_mode": "new",
+   "shot": "CLOSE-UP",
+   "phrase": "line two proves you looked.",
+   "scene": "CLOSE-UP: the second stroke on the note picked out in burnt orange with a hand-drawn orange circle around it"
+  },
+  {
+   "n": 15,
+   "image_mode": "variation",
+   "variation_of": 14,
+   "phrase": "Name something only readers know,",
+   "change_only": "a small monochrome magnifier shape settles over that stroke"
+  },
+  {
+   "n": 16,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "not their mission statement.",
+   "scene": "MEDIUM: a large blank monochrome plaque cutout standing on the cream stage with a burnt orange cross stroke drawn across it"
+  },
+  {
+   "n": 17,
+   "image_mode": "variation",
+   "variation_of": 16,
+   "phrase": "Something from their work,",
+   "change_only": "the plaque shrinks and a small orange-edged note takes its place"
+  },
+  {
+   "n": 18,
+   "image_mode": "new",
+   "shot": "CLOSE-UP",
+   "phrase": "that one line does everything.",
+   "scene": "CLOSE-UP: one short burnt orange stroke alone on the cream stage with a soft paper drop shadow beneath it"
+  },
+  {
+   "n": 19,
+   "image_mode": "variation",
+   "variation_of": 18,
+   "phrase": "It cannot be mass produced,",
+   "change_only": "a row of identical grey copies behind it crumbles away"
+  },
+  {
+   "n": 20,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "line three makes the ask.",
+   "scene": "MEDIUM: the blank note on the cream stage with the third stroke drawn in burnt orange and a small orange arrow pointing to it"
+  },
+  {
+   "n": 21,
+   "image_mode": "variation",
+   "variation_of": 20,
+   "phrase": "Fifteen minutes, not more,",
+   "change_only": "a small monochrome hourglass appears beside the note"
+  },
+  {
+   "n": 22,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "never ask for a job.",
+   "scene": "MEDIUM: a monochrome door cutout on the cream stage with a heavy burnt orange cross stroke drawn over it"
+  },
+  {
+   "n": 23,
+   "image_mode": "variation",
+   "variation_of": 22,
+   "phrase": "They cannot give one,",
+   "change_only": "the door tips forward showing bare cream paper behind"
+  },
+  {
+   "n": 24,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "ask about the work.",
+   "scene": "MEDIUM: two monochrome cutout figures facing each other on the cream stage, a burnt orange stroke arcing between them"
+  },
+  {
+   "n": 25,
+   "image_mode": "variation",
+   "variation_of": 24,
+   "phrase": "That they can answer,",
+   "change_only": "the arc between them thickens and steadies"
+  },
+  {
+   "n": 26,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "then make yes easy.",
+   "scene": "MEDIUM: two small blank monochrome cards side by side on the cream stage, each edged burnt orange, nothing else in frame"
+  },
+  {
+   "n": 27,
+   "image_mode": "variation",
+   "variation_of": 26,
+   "phrase": "Offer two slots only,",
+   "change_only": "a dense grid of grey squares behind them is struck out in orange"
+  },
+  {
+   "n": 28,
+   "image_mode": "new",
+   "shot": "CLOSE-UP",
+   "phrase": "close it, send it.",
+   "scene": "CLOSE-UP: the oversized monochrome hand releasing a single blank note into the air, a burnt orange arrow rising from it"
+  },
+  {
+   "n": 29,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "No attachment on message one,",
+   "scene": "MEDIUM: a thick monochrome document block on the cream stage with a burnt orange cross stroke drawn over it"
+  },
+  {
+   "n": 30,
+   "image_mode": "variation",
+   "variation_of": 29,
+   "phrase": "attachments read as pitches.",
+   "change_only": "the document block slides out of frame to the left"
+  },
+  {
+   "n": 31,
+   "image_mode": "new",
+   "shot": "WIDE",
+   "phrase": "Most will not reply,",
+   "scene": "FULL-SPREAD: ten small blank monochrome notes scattered across the cream stage, only one edged burnt orange"
+  },
+  {
+   "n": 32,
+   "image_mode": "variation",
+   "variation_of": 31,
+   "phrase": "that is normal, expected.",
+   "change_only": "a burnt orange marker circle draws around the single orange note"
+  },
+  {
+   "n": 33,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "Follow up once, one week,",
+   "scene": "MEDIUM: a monochrome hourglass on the cream stage with one small blank note beside it, a single burnt orange tick stroke above"
+  },
+  {
+   "n": 34,
+   "image_mode": "variation",
+   "variation_of": 33,
+   "phrase": "shorter than the first.",
+   "change_only": "the note beside the hourglass shrinks to half its size"
+  },
+  {
+   "n": 35,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "Then stop, move on.",
+   "scene": "MEDIUM: the oversized monochrome hand lifting away from an empty cream stage, a burnt orange stroke trailing behind it"
+  },
+  {
+   "n": 36,
+   "image_mode": "new",
+   "shot": "WIDE",
+   "phrase": "Volume does not work,",
+   "scene": "FULL-SPREAD: a wide drift of identical pale grey notes across the cream stage with one large burnt orange cross stroke over the whole drift"
+  },
+  {
+   "n": 37,
+   "image_mode": "variation",
+   "variation_of": 36,
+   "phrase": "ten specific notes win,",
+   "change_only": "the grey drift collapses to ten orange-edged notes in a row"
+  },
+  {
+   "n": 38,
+   "image_mode": "new",
+   "shot": "CLOSE-UP",
+   "phrase": "because specific cannot be faked.",
+   "scene": "CLOSE-UP: one blank note with a single hand-drawn burnt orange mark on it, clearly different from the pale grey notes behind"
+  },
+  {
+   "n": 39,
+   "image_mode": "variation",
+   "variation_of": 38,
+   "phrase": "That is the whole signal,",
+   "change_only": "the grey notes behind it fade away entirely"
+  },
+  {
+   "n": 40,
+   "image_mode": "new",
+   "shot": "MEDIUM",
+   "phrase": "write fewer, write like yourself.",
+   "scene": "MEDIUM: a single blank note standing upright at the centre of the cream stage on a flat burnt orange disc, tape strips at the corners"
+  }
+ ]
+}

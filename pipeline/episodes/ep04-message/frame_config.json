@@ -1,0 +1,192 @@
+{
+  "assets": {
+    "style_key": "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+    "book": "7051f741-cb8b-450d-a981-bfbe88bee329",
+    "character": "0f8a8c2b-02e6-41ac-85ca-1830f7511700",
+    "column": "f6c7e31c-6cb5-4fbc-8247-1923347f3861",
+    "door": "ff95868c-1e3b-4d69-ba4c-a5e4bf9a4904",
+    "form": "0daed658-abeb-4df3-bfa1-3ffe970b9344",
+    "grid": "95274b84-9e10-4966-84e8-fb5d912c14f9",
+    "hand": "c4f9cab5-dd4c-49ed-b9fd-7227ca986ee3",
+    "hourglass": "16e94bc6-9ece-4f6e-8bef-1630c1955f6b",
+    "stage": "5a140cec-03e4-4f51-a646-fa728429beee"
+  },
+  "beat_assets": {
+    "1": [
+      "stage",
+      "form"
+    ],
+    "2": [
+      "stage",
+      "form",
+      "grid"
+    ],
+    "3": [
+      "stage",
+      "grid"
+    ],
+    "4": [
+      "stage",
+      "grid"
+    ],
+    "5": [
+      "stage",
+      "character",
+      "form"
+    ],
+    "6": [
+      "stage",
+      "character",
+      "form"
+    ],
+    "7": [
+      "stage",
+      "form"
+    ],
+    "8": [
+      "stage",
+      "book"
+    ],
+    "9": [
+      "stage",
+      "book",
+      "form"
+    ],
+    "10": [
+      "stage",
+      "form"
+    ],
+    "11": [
+      "stage",
+      "form",
+      "column"
+    ],
+    "12": [
+      "stage",
+      "form"
+    ],
+    "13": [
+      "stage",
+      "form"
+    ],
+    "14": [
+      "stage",
+      "form"
+    ],
+    "15": [
+      "stage",
+      "form"
+    ],
+    "16": [
+      "stage",
+      "column"
+    ],
+    "17": [
+      "stage",
+      "column",
+      "form"
+    ],
+    "18": [
+      "stage"
+    ],
+    "19": [
+      "stage",
+      "form"
+    ],
+    "20": [
+      "stage",
+      "form"
+    ],
+    "21": [
+      "stage",
+      "form",
+      "hourglass"
+    ],
+    "22": [
+      "stage",
+      "door"
+    ],
+    "23": [
+      "stage",
+      "door"
+    ],
+    "24": [
+      "stage",
+      "character"
+    ],
+    "25": [
+      "stage",
+      "character"
+    ],
+    "26": [
+      "stage",
+      "form"
+    ],
+    "27": [
+      "stage",
+      "form",
+      "grid"
+    ],
+    "28": [
+      "stage",
+      "hand",
+      "form"
+    ],
+    "29": [
+      "stage",
+      "form",
+      "column"
+    ],
+    "30": [
+      "stage",
+      "form",
+      "column"
+    ],
+    "31": [
+      "stage",
+      "grid",
+      "form"
+    ],
+    "32": [
+      "stage",
+      "grid",
+      "form"
+    ],
+    "33": [
+      "stage",
+      "hourglass",
+      "form"
+    ],
+    "34": [
+      "stage",
+      "hourglass",
+      "form"
+    ],
+    "35": [
+      "stage",
+      "hand"
+    ],
+    "36": [
+      "stage",
+      "grid"
+    ],
+    "37": [
+      "stage",
+      "grid"
+    ],
+    "38": [
+      "stage",
+      "form"
+    ],
+    "39": [
+      "stage",
+      "form"
+    ],
+    "40": [
+      "stage",
+      "form"
+    ]
+  },
+  "var_scenes": {},
+  "extras": {}
+}
