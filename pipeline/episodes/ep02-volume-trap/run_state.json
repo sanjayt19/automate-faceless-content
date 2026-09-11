@@ -1,0 +1,49 @@
+{
+  "episode": "ep02-volume-trap",
+  "title": "Why Applying To More Jobs Makes It Worse",
+  "status": "frames in progress",
+  "narration_seconds": 80.0,
+  "beats": 40,
+  "frames": 85,
+  "narration_audio": "https://d8j0ntlcm91z4.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/hf_20260911_013605_c2299dfc-f505-4d61-bb51-9a186e1389d0.wav",
+  "reused_from_ep01": {
+    "style_key": "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+    "character": "0f8a8c2b-02e6-41ac-85ca-1830f7511700",
+    "stage": "5a140cec-03e4-4f51-a646-fa728429beee",
+    "hand": "c4f9cab5-dd4c-49ed-b9fd-7227ca986ee3",
+    "book": "7051f741-cb8b-450d-a981-bfbe88bee329"
+  },
+  "new_assets": {
+    "form": "0daed658-abeb-4df3-bfa1-3ffe970b9344",
+    "door": "ff95868c-1e3b-4d69-ba4c-a5e4bf9a4904",
+    "column": "f6c7e31c-6cb5-4fbc-8247-1923347f3861",
+    "lever": "e2cc13d1-a680-4610-ba42-afed614b1f5c"
+  },
+  "new_frame_jobs": {
+    "1": "3c71bb54-2f78-42de-8fec-7f491723900b",
+    "4": "0f823a92-1322-4053-a7c4-05e47e891732",
+    "5": "69e5a57c-25a2-42c3-abe4-a08bf53ab8da",
+    "8": "19e632d0-83d8-415d-8f30-25881f35735e",
+    "10": "78608617-365e-478f-b447-77740727d97a",
+    "13": "e4c0a3b6-5d17-4c66-88ad-aad06cfe0534",
+    "14": "a8792102-f089-48f9-88d8-7cca61106538",
+    "17": "9e182bef-2015-4664-abce-677ad021a351",
+    "19": "de98700f-7c98-4473-b590-91dee902d14a",
+    "22": "5585ef73-ef8f-4b6a-a76b-3ab13c586fad",
+    "25": "7dc92788-4d89-4dc4-b64d-8e8feb31dc6a",
+    "26": "91f5f551-17c0-4e4f-b3ee-71336d1c5618",
+    "28": "3adf0e82-8c94-46c0-9b54-fb3ff67758da",
+    "31": "030d6056-a03f-4d20-a3a3-88768a348c90",
+    "33": "ae40a777-ebc2-4e67-87a9-85d4cc186747",
+    "36": "5cbe1e59-e893-4d8e-8375-78c78249da32",
+    "37": "c869229d-9048-4d34-b052-168608d20ecc",
+    "39": "34328e64-40c6-4efb-9da3-487ba0ca5625",
+    "42": "55d8fcf6-efd1-4304-bc47-135fbc6d76f7",
+    "44": "c18c55fa-ef33-4cd3-bafc-a2bf0303cf88",
+    "47": "6cffa93f-30fa-4018-94ee-7f9c53951260",
+    "49": "3663fe3b-36c9-4ec5-a5cf-97778ed37476",
+    "52": "6c192679-c339-4eac-aa00-317acf7673dc",
+    "54": "7b74ade8-4ab2-41d9-aaa5-8f7998da344b"
+  },
+  "remaining_new_frames": [56, 59, 61, 63, 66, 69, 70, 71, 74, 75, 78, 79, 82, 83]
+}
