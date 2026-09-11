@@ -8,7 +8,8 @@ Each episode directory holds:
   script_manifest.json  the beats, with a scene on every new beat
   frames.tsv            n|beat|start|duration|mode|parent, from build_scene_timeline
   frame_config.json     assets, per-beat asset picks, scenes for new frames that fall
-                        inside a variation beat, and extra edit lines
+                        inside a variation beat, extra edit lines, and an optional
+                        "style" block overriding the series default
 
 Usage: build_frame_prompts.py pipeline/episodes/ep02-volume-trap
 """
@@ -43,6 +44,7 @@ def main(argv):
     ep = pathlib.Path(argv[1])
     script = json.loads((ep / "script_manifest.json").read_text())
     cfg = json.loads((ep / "frame_config.json").read_text())
+    style = cfg.get("style", STYLE)   # a visual format may override the locked block
     beats = {b["n"]: b for b in script["beats"]}
     assets, beat_assets = cfg["assets"], cfg["beat_assets"]
     var_scenes = {int(k): v for k, v in cfg["var_scenes"].items()}
@@ -59,7 +61,7 @@ def main(argv):
             scene = beat.get("scene") or var_scenes[beat_n]
             refs = [assets["style_key"]] + [assets[k] for k in beat_assets[str(beat_n)]]
             frames.append({"n": n, "beat": beat_n, "mode": "new", "refs": refs,
-                           "prompt": f"{scene}\n\n{STYLE}"})
+                           "prompt": f"{scene}\n\n{style}"})
             continue
         if beat["image_mode"] == "variation" and beat_n not in used_authored:
             change = beat["change_only"]

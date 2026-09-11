@@ -1,0 +1,200 @@
+{
+ "style": "STYLE: premium product photography on a seamless infinite pure white studio sweep with an almost imperceptible cool grey falloff and no visible horizon. One single object floating in immaculate soft studio lighting, a gentle contact shadow beneath it and a subtle bright edge highlight along one side. Matte paper-white and cool pale grey materials, precisely machined surfaces, extreme negative space, absolute cleanliness. Calm, premium, deliberate, engineered.\n\nPALETTE LOCK: pure white ground, matte white and cool pale grey objects, ONE deep graphite accent - no other colours, no warm tones, no gradients beyond the soft studio falloff.\n\nNEGATIVE: readable text, letters, words, numbers, handwriting, people, faces, hands, desks, offices, chairs, plants, mugs, props, background objects, studio equipment, visible light stands, reflections of a studio, clutter, visible texture, film grain, colour, illustration, flat vector, line drawing, collage, cartoon, 3D cartoon render.",
+ "assets": {
+  "style_key": "c868b73a-ca91-45df-914b-62ebac1884db",
+  "sheet": "72a1187b-f21e-4259-95f8-40acdeff7354",
+  "ring": "e1c7ecde-3e06-439d-b39d-eb923ee29861",
+  "bars": "806cbc11-04fa-47d9-b256-3bbbfa1e3ad1"
+ },
+ "beat_assets": {
+  "1": [
+   "sheet"
+  ],
+  "2": [
+   "sheet"
+  ],
+  "3": [
+   "ring"
+  ],
+  "4": [
+   "ring"
+  ],
+  "5": [
+   "sheet"
+  ],
+  "6": [
+   "bars"
+  ],
+  "8": [
+   "bars"
+  ],
+  "9": [
+   "bars"
+  ],
+  "11": [
+   "sheet"
+  ],
+  "12": [
+   "sheet"
+  ],
+  "14": [
+   "sheet"
+  ],
+  "15": [
+   "sheet"
+  ],
+  "17": [
+   "sheet"
+  ],
+  "18": [
+   "sheet"
+  ],
+  "19": [
+   "ring"
+  ],
+  "20": [
+   "ring"
+  ],
+  "21": [
+   "ring",
+   "sheet"
+  ],
+  "22": [
+   "sheet"
+  ],
+  "23": [
+   "sheet"
+  ],
+  "24": [
+   "sheet"
+  ],
+  "25": [
+   "sheet"
+  ],
+  "26": [
+   "sheet",
+   "ring"
+  ],
+  "27": [
+   "sheet"
+  ],
+  "29": [
+   "sheet"
+  ],
+  "30": [
+   "sheet"
+  ],
+  "31": [
+   "sheet"
+  ],
+  "32": [
+   "sheet"
+  ],
+  "33": [
+   "sheet"
+  ],
+  "34": [
+   "ring"
+  ],
+  "35": [
+   "ring"
+  ],
+  "36": [
+   "bars"
+  ],
+  "37": [
+   "bars"
+  ]
+ },
+ "var_scenes": {
+  "2": "HERO: a blank matte white sheet floating upright in the white void with one narrow sharply defined graphite band across its upper third",
+  "4": "MEDIUM: a slender deep graphite ring in the white void with one thin graphite line dropping vertically from it through empty white space",
+  "6": "HERO: a blank matte white sheet upright in the white void carrying two short graphite bars stacked near its top edge",
+  "9": "HERO: a blank matte white sheet upright in the white void with four deep graphite bars stacked across its upper third, the lower two thirds entirely empty",
+  "12": "WIDE: three blank matte white sheets floating in the white void, the outer two set well apart from the raised centre sheet",
+  "15": "HERO: a blank matte white sheet in the white void with its upper third resting back against it, only a hairline seam between them",
+  "18": "MEDIUM: a blank matte white sheet in the white void carrying only a pale ghost of a grid, almost entirely erased",
+  "20": "MEDIUM: three slender graphite rings in a vertical column in the white void, the topmost one filled solid deep graphite",
+  "21": "MEDIUM: a column of three graphite rings in the white void with a blank matte white sheet standing directly behind them",
+  "23": "MEDIUM: a solid deep graphite disc floating beside a blank matte white sheet in the white void, the disc grown to roughly the height of the sheet",
+  "25": "HERO: a blank matte white sheet with a clean rectangular gap in its middle floating in the white void, the cut out piece drifting free beside it",
+  "27": "MEDIUM: a blank matte white sheet in the white void with its lower two thirds hidden behind a clean matte white panel, a graphite ring hovering over the exposed top",
+  "30": "HERO: a blank matte white sheet floating upright in the white void with one crisp graphite bar across its upper third",
+  "32": "WIDE: two blank matte white sheets side by side in the white void, the left one tilted forward toward the viewer",
+  "33": "WIDE: two blank matte white sheets in the white void, the right one carrying a dark dense block of small graphite squares across its lower half",
+  "35": "MEDIUM: a slender graphite ring in the white void crossed by one solid thick graphite band running horizontally through it",
+  "37": "HERO: a single blank matte white sheet floating dead centre in the white void with one near black band filling its upper third, the rest pristine and empty"
+ },
+ "extras": {
+  "1": [
+   "the graphite band across the upper third deepens in tone"
+  ],
+  "2": [
+   "the sheet rotates a few degrees clockwise"
+  ],
+  "3": [
+   "the ring tilts further toward the viewer"
+  ],
+  "5": [
+   "the single graphite bar near the top lengthens slightly"
+  ],
+  "7": [
+   "the three graphite bars shift slightly closer together"
+  ],
+  "8": [
+   "the lowest of the four graphite bars shortens"
+  ],
+  "10": [
+   "the faded lower portion of the sheet becomes fully transparent"
+  ],
+  "11": [
+   "the middle sheet lifts slightly higher than the other two"
+  ],
+  "13": [
+   "the two outer sheets fade to a paler white"
+  ],
+  "14": [
+   "the gap between the floating panel and the sheet widens"
+  ],
+  "17": [
+   "the grid of graphite squares spreads to the very edges of the sheet"
+  ],
+  "19": [
+   "the three rings space themselves further apart in the column"
+  ],
+  "20": [
+   "the filled top ring grows slightly larger than the other two"
+  ],
+  "22": [
+   "the graphite disc moves closer to the edge of the sheet",
+   "the sheet turns slightly to face the disc"
+  ],
+  "23": [
+   "the graphite disc deepens toward near black"
+  ],
+  "24": [
+   "the cut rectangle in the sheet widens"
+  ],
+  "26": [
+   "the hovering ring moves closer to the surface of the sheet"
+  ],
+  "28": [
+   "the covering panel edges upward, hiding a little more of the sheet"
+  ],
+  "29": [
+   "the blank sheet drifts slightly closer to the viewer"
+  ],
+  "31": [
+   "both sheets drift a little further apart"
+  ],
+  "33": [
+   "the block of squares on the right sheet darkens"
+  ],
+  "34": [
+   "the sweeping line shifts to cross the ring higher up"
+  ],
+  "36": [
+   "the sheet rises slightly within the frame"
+  ]
+ }
+}

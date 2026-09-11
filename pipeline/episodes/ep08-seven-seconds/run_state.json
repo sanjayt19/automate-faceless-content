@@ -1,0 +1,18 @@
+{
+ "episode": "ep08-seven-seconds",
+ "title": "Your Resume Gets Seven Seconds",
+ "status": "frames_pending",
+ "visual_format": "I - Apple advertisement, seamless white void",
+ "narration_seconds": 81.06,
+ "beats": 37,
+ "frames": 78,
+ "alignment_similarity": 0.9659,
+ "narration_mp3": "https://d8j0ntlcm91z4.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/hf_20260911_192019_5be12822-e10d-4d57-a0c7-feca6a951a1e.mp3",
+ "new_assets": {
+  "style_key": "c868b73a-ca91-45df-914b-62ebac1884db",
+  "sheet": "72a1187b-f21e-4259-95f8-40acdeff7354",
+  "ring": "e1c7ecde-3e06-439d-b39d-eb923ee29861",
+  "bars": "806cbc11-04fa-47d9-b256-3bbbfa1e3ad1"
+ },
+ "frame_jobs": {}
+}
