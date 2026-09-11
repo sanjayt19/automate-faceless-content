@@ -182,6 +182,86 @@
       "form"
     ]
   },
-  "var_scenes": {},
-  "extras": {}
+  "var_scenes": {
+    "2": "MEDIUM: a burnt orange arrow pressing hard against a sharp break in a long orange line on the cream stage",
+    "4": "WIDE: ten identical blank monochrome cards spread evenly across the cream stage, each edged burnt orange",
+    "6": "WIDE: a row of ten small monochrome cutout figures on the cream stage with no orange marking on any of them",
+    "8": "CLOSE-UP: a thin broken burnt orange stroke almost faded out across bare cream paper",
+    "10": "CLOSE-UP: a tight burnt orange bracket closed around three blank monochrome cards on the cream stage",
+    "12": "MEDIUM: three blank monochrome cards standing alone on the cream stage with no hand anywhere in frame",
+    "14": "MEDIUM: three monochrome cutout figures standing on a thick solid burnt orange band across the cream stage",
+    "16": "CLOSE-UP: three short burnt orange strokes on a blank note with a small orange tick beside them",
+    "18": "WIDE: a cluster of blank monochrome cards on the cream stage with five of them tipping off the bottom edge",
+    "22": "WIDE: a row of thick burnt orange marks evenly spaced across the cream stage on bare cream paper",
+    "24": "MEDIUM: a monochrome cutout figure on the cream stage under one straight steady burnt orange line",
+    "26": "CLOSE-UP: one blank card on the cream stage with a burnt orange arrow pointing away from the viewer",
+    "28": "MEDIUM: a pale grey blank card sliding toward the edge of the cream stage, a burnt orange line left behind it",
+    "32": "MEDIUM: three blank monochrome cards standing in a complete row on the cream stage, the newest one edged burnt orange",
+    "34": "CLOSE-UP: a solid closed burnt orange ring drawn on bare cream paper with a soft paper drop shadow",
+    "36": "FULL-SPREAD: a single steady burnt orange line running past both edges of the cream stage",
+    "38": "FULL-SPREAD: a flat drift of pale grey blank cards settled across the cream stage with no orange anywhere",
+    "40": "MEDIUM: a monochrome cutout figure at the head of a long straight queue of blank cards, a burnt orange stroke along the queue"
+  },
+  "extras": {
+    "1": [
+      "the break in the orange line widens"
+    ],
+    "3": [
+      "two more blank cards drift into the frame"
+    ],
+    "5": [
+      "the four orange edged figures brighten"
+    ],
+    "7": [
+      "the gap of bare cream paper widens further"
+    ],
+    "9": [
+      "the orange edges on the three cards thicken"
+    ],
+    "11": [
+      "the hand presses the third card firmly into place"
+    ],
+    "13": [
+      "the three figures step slightly further apart"
+    ],
+    "15": [
+      "a fourth short orange stroke appears on the note"
+    ],
+    "17": [
+      "the crowded cards lean harder toward the edge"
+    ],
+    "19": [
+      "the marker circle around the hourglass closes"
+    ],
+    "21": [
+      "every mark in the row shifts into even spacing"
+    ],
+    "23": [
+      "the wavering line above the figure wobbles further"
+    ],
+    "25": [
+      "the arrow on the card thickens"
+    ],
+    "27": [
+      "the pale grey card fades further toward the paper"
+    ],
+    "30": [
+      "the hand withdraws further from the empty stage"
+    ],
+    "31": [
+      "the orange bracket marking the gap thickens"
+    ],
+    "33": [
+      "the orange loop stroke closes completely"
+    ],
+    "35": [
+      "the steady orange line thickens along its length"
+    ],
+    "37": [
+      "more blank cards land across the scatter"
+    ],
+    "39": [
+      "the queue behind the figure straightens"
+    ]
+  }
 }

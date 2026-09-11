@@ -23,7 +23,7 @@
   {
    "n": 3,
    "image_mode": "new",
-   "phrase": "the resume was never read.",
+   "phrase": "it was never read.",
    "scene": "MEDIUM: a single blank monochrome paper note lying face down on the cream stage, a burnt orange stroke beneath it"
   },
   {
@@ -42,7 +42,7 @@
   {
    "n": 6,
    "image_mode": "variation",
-   "phrase": "A booster answers within days,",
+   "phrase": "A booster answers fast,",
    "variation_of": 5,
    "change_only": "a burnt orange arc opens outward from the first figure"
   },
@@ -74,7 +74,7 @@
   {
    "n": 11,
    "image_mode": "variation",
-   "phrase": "They give facts, not advocacy.",
+   "phrase": "Facts, but never advocacy.",
    "variation_of": 10,
    "change_only": "a small stack of blank cards appears at the base of the figure"
   },
@@ -100,7 +100,7 @@
   {
    "n": 15,
    "image_mode": "variation",
-   "phrase": "you cannot tell in advance.",
+   "phrase": "you cannot tell beforehand.",
    "variation_of": 14,
    "change_only": "the hovering hand lifts away from the cards entirely"
   },
@@ -152,14 +152,14 @@
   {
    "n": 23,
    "image_mode": "variation",
-   "phrase": "Contact several people at once,",
+   "phrase": "Contact several at once,",
    "variation_of": 22,
    "change_only": "three burnt orange arrows leave the row at once"
   },
   {
    "n": 24,
    "image_mode": "new",
-   "phrase": "let the replies sort them.",
+   "phrase": "let replies sort them.",
    "scene": "WIDE: three monochrome cutout figures on the cream stage with one burnt orange stroke landing on the middle one"
   },
   {
@@ -198,7 +198,7 @@
   {
    "n": 30,
    "image_mode": "new",
-   "phrase": "It is dressed up waiting.",
+   "phrase": "It is only waiting.",
    "scene": "CLOSE-UP: a monochrome hourglass standing still on the cream stage with no orange sand moving in it"
   },
   {
@@ -211,7 +211,7 @@
   {
    "n": 32,
    "image_mode": "new",
-   "phrase": "that is normal, not personal.",
+   "phrase": "not personal, just normal.",
    "scene": "WIDE: a long row of monochrome cutout figures on the cream stage, only two of them edged burnt orange"
   },
   {
@@ -224,7 +224,7 @@
   {
    "n": 34,
    "image_mode": "new",
-   "phrase": "Two or three carry it.",
+   "phrase": "Two or three suffice.",
    "scene": "MEDIUM: two monochrome cutout figures close together on the cream stage on one large burnt orange disc"
   },
   {
@@ -237,33 +237,33 @@
   {
    "n": 36,
    "image_mode": "new",
-   "phrase": "they hand you more boosters.",
+   "phrase": "they hand you more.",
    "scene": "FULL-SPREAD: two burnt orange edged figures on the cream stage with strokes branching out to four more figures"
   },
   {
    "n": 37,
    "image_mode": "variation",
-   "phrase": "Volume is not the point,",
+   "phrase": "Volume is not it,",
    "variation_of": 36,
    "change_only": "the branching strokes double and reach further out"
   },
   {
    "n": 38,
    "image_mode": "new",
-   "phrase": "sorting speed is the point.",
+   "phrase": "speed of sorting is.",
    "scene": "MEDIUM: a monochrome hourglass on the cream stage with burnt orange sand running fast and a sweep arrow beside it"
   },
   {
    "n": 39,
    "image_mode": "variation",
-   "phrase": "Send a few, sort fast,",
+   "phrase": "Send few, sort fast,",
    "variation_of": 38,
    "change_only": "the sweep arrow beside the hourglass lengthens sharply"
   },
   {
    "n": 40,
    "image_mode": "new",
-   "phrase": "spend time on whoever answers.",
+   "phrase": "spend time on answerers.",
    "scene": "FULL-SPREAD: one monochrome cutout figure seated with another on a large burnt orange disc, bare cream paper elsewhere"
   }
  ]
