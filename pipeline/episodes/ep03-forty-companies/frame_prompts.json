@@ -1,0 +1,774 @@
+[
+ {
+  "n": 1,
+  "beat": 1,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "0f8a8c2b-02e6-41ac-85ca-1830f7511700"
+  ],
+  "prompt": "FULL-SPREAD: a monochrome cutout figure stands on the cream stage aiming a single burnt orange arrow at one small distant target, no paper forms anywhere\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 2,
+  "beat": 1,
+  "mode": "variation",
+  "parent": 1,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the aiming figure draws the arrow further back. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 3,
+  "beat": 1,
+  "mode": "variation",
+  "parent": 2,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the distant target grows larger in the frame. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 4,
+  "beat": 2,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "0f8a8c2b-02e6-41ac-85ca-1830f7511700"
+  ],
+  "prompt": "MEDIUM: a torn paper grid board of small blank monochrome cards standing upright on the cream stage, a burnt orange arrow planted in the ground beside it\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 5,
+  "beat": 2,
+  "mode": "variation",
+  "parent": 4,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the single arrow lands in the centre of the target. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 6,
+  "beat": 3,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "95274b84-9e10-4966-84e8-fb5d912c14f9"
+  ],
+  "prompt": "MEDIUM: a torn paper grid board of small blank monochrome cards standing on the cream stage, a flat burnt orange disc behind it\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 7,
+  "beat": 3,
+  "mode": "variation",
+  "parent": 6,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the grid board tilts slightly toward the viewer. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 8,
+  "beat": 4,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "95274b84-9e10-4966-84e8-fb5d912c14f9"
+  ],
+  "prompt": "CLOSE-UP: four empty vertical columns of blank paper strips on the cream stage, the leftmost column edged in burnt orange\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 9,
+  "beat": 4,
+  "mode": "variation",
+  "parent": 8,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the leftmost column's orange edge thickens. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 10,
+  "beat": 4,
+  "mode": "variation",
+  "parent": 9,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: a second column edge picks up a burnt orange line. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 11,
+  "beat": 5,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "95274b84-9e10-4966-84e8-fb5d912c14f9"
+  ],
+  "prompt": "WIDE: four full columns of small blank monochrome cards filling the grid board on the cream stage, one card in the first column popped burnt orange\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 12,
+  "beat": 5,
+  "mode": "variation",
+  "parent": 11,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: all four columns fill with rows of blank cards. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 13,
+  "beat": 5,
+  "mode": "variation",
+  "parent": 12,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the cards in the columns shift into even rows. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 14,
+  "beat": 6,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "95274b84-9e10-4966-84e8-fb5d912c14f9"
+  ],
+  "prompt": "MEDIUM: the first column of the grid board filling with small blank monochrome cards, a burnt orange stroke marking its top\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 15,
+  "beat": 6,
+  "mode": "variation",
+  "parent": 14,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: three more cards drop into the first column. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 16,
+  "beat": 7,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "16e94bc6-9ece-4f6e-8bef-1630c1955f6b"
+  ],
+  "prompt": "CLOSE-UP: a monochrome halftone hourglass cutout on the cream stage with burnt orange sand in its upper bulb\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 17,
+  "beat": 7,
+  "mode": "variation",
+  "parent": 16,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: a few grains of orange sand begin to fall. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 18,
+  "beat": 8,
+  "mode": "variation",
+  "parent": 17,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the burnt orange sand falls halfway through the hourglass. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 19,
+  "beat": 8,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "16e94bc6-9ece-4f6e-8bef-1630c1955f6b"
+  ],
+  "prompt": "MEDIUM: the monochrome hourglass on the cream stage with the burnt orange sand half run through, blank paper cards stacking up beside it\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 20,
+  "beat": 9,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "c4f9cab5-dd4c-49ed-b9fd-7227ca986ee3",
+   "95274b84-9e10-4966-84e8-fb5d912c14f9"
+  ],
+  "prompt": "MEDIUM: the oversized monochrome hand reaching toward a card as if to remove it, a burnt orange cross stroke drawn over the hand\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 21,
+  "beat": 9,
+  "mode": "variation",
+  "parent": 20,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the cross stroke over the hand thickens. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 22,
+  "beat": 10,
+  "mode": "variation",
+  "parent": 21,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the oversized hand withdraws from the board entirely. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 23,
+  "beat": 10,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "c4f9cab5-dd4c-49ed-b9fd-7227ca986ee3",
+   "95274b84-9e10-4966-84e8-fb5d912c14f9"
+  ],
+  "prompt": "MEDIUM: the grid board alone on the cream stage with no hand anywhere near it, a burnt orange stroke drawn clear along its edge\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 24,
+  "beat": 11,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "95274b84-9e10-4966-84e8-fb5d912c14f9"
+  ],
+  "prompt": "FULL-SPREAD: four dense columns of small blank monochrome cards filling the cream stage, one card in each column popped burnt orange\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 25,
+  "beat": 11,
+  "mode": "variation",
+  "parent": 24,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: a fourth column of cards fills in at the right. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 26,
+  "beat": 12,
+  "mode": "variation",
+  "parent": 25,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: every card in the grid snaps into alignment. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 27,
+  "beat": 12,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "95274b84-9e10-4966-84e8-fb5d912c14f9"
+  ],
+  "prompt": "WIDE: the four dense columns of blank monochrome cards perfectly aligned on the cream stage, a single burnt orange stroke underlining the whole grid\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 28,
+  "beat": 13,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "95274b84-9e10-4966-84e8-fb5d912c14f9"
+  ],
+  "prompt": "MEDIUM: the grid board seen closer with the second column empty, a burnt orange bracket drawn around that empty column\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 29,
+  "beat": 13,
+  "mode": "variation",
+  "parent": 28,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the bracket around the empty column thickens. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 30,
+  "beat": 14,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "0f8a8c2b-02e6-41ac-85ca-1830f7511700"
+  ],
+  "prompt": "MEDIUM: two monochrome cutout figures on the cream stage, one standing behind the other with a hand on their shoulder, a burnt orange stroke joining them\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 31,
+  "beat": 14,
+  "mode": "variation",
+  "parent": 30,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the standing figure raises their free hand. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 32,
+  "beat": 14,
+  "mode": "variation",
+  "parent": 31,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the other figure turns slightly toward them. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 33,
+  "beat": 15,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "0f8a8c2b-02e6-41ac-85ca-1830f7511700"
+  ],
+  "prompt": "CLOSE-UP: two monochrome cutout figures shoulder to shoulder on the cream stage, a thick burnt orange stroke binding them together\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 34,
+  "beat": 15,
+  "mode": "variation",
+  "parent": 33,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the standing figure steps closer behind the other. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 35,
+  "beat": 16,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "7051f741-cb8b-450d-a981-bfbe88bee329"
+  ],
+  "prompt": "CLOSE-UP: a single monochrome book cutout on the cream stage with a burnt orange marker line struck through one blank region of its cover\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 36,
+  "beat": 16,
+  "mode": "variation",
+  "parent": 35,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the struck-through mark on the cover lengthens. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 37,
+  "beat": 17,
+  "mode": "variation",
+  "parent": 36,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the struck-through region on the cover fades to pale monochrome. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 38,
+  "beat": 17,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "7051f741-cb8b-450d-a981-bfbe88bee329"
+  ],
+  "prompt": "CLOSE-UP: a monochrome book cutout on the cream stage with one region of its blank cover faded to pale grey and a burnt orange strike drawn through it\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 39,
+  "beat": 18,
+  "mode": "variation",
+  "parent": 38,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: a fresh burnt orange underline draws beneath a different region. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 40,
+  "beat": 18,
+  "mode": "variation",
+  "parent": 39,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the new underline extends across the cover. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 41,
+  "beat": 19,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "0f8a8c2b-02e6-41ac-85ca-1830f7511700"
+  ],
+  "prompt": "MEDIUM: a monochrome cutout figure seated at a desk working, a second figure standing beside them watching, a burnt orange circle drawn around the seated one\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 42,
+  "beat": 19,
+  "mode": "variation",
+  "parent": 41,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the watching figure takes a step back. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 43,
+  "beat": 20,
+  "mode": "variation",
+  "parent": 42,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the standing watcher fades to pale monochrome. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 44,
+  "beat": 20,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "0f8a8c2b-02e6-41ac-85ca-1830f7511700"
+  ],
+  "prompt": "MEDIUM: a single monochrome cutout figure seated at a desk working, alone on the cream stage, a burnt orange circle drawn around them\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 45,
+  "beat": 21,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "95274b84-9e10-4966-84e8-fb5d912c14f9"
+  ],
+  "prompt": "MEDIUM: the grid board with the third column empty, a large abstract burnt orange curl stroke drawn beside it\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 46,
+  "beat": 21,
+  "mode": "variation",
+  "parent": 45,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the curl stroke beside the column tightens. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 47,
+  "beat": 21,
+  "mode": "variation",
+  "parent": 46,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: a second smaller curl appears below it. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 48,
+  "beat": 22,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "95274b84-9e10-4966-84e8-fb5d912c14f9"
+  ],
+  "prompt": "MEDIUM: the grid board with the third column empty and a very large abstract burnt orange curl stroke looping beside it\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 49,
+  "beat": 22,
+  "mode": "variation",
+  "parent": 48,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the abstract orange curl beside the column doubles in size. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 50,
+  "beat": 23,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "95274b84-9e10-4966-84e8-fb5d912c14f9"
+  ],
+  "prompt": "CLOSE-UP: a single blank monochrome card held upright on the cream stage with a burnt orange marker circle drawn around it\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 51,
+  "beat": 24,
+  "mode": "variation",
+  "parent": 50,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: half the cards behind it tip over and fall flat. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 52,
+  "beat": 24,
+  "mode": "variation",
+  "parent": 51,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: several more cards behind the held card topple. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 53,
+  "beat": 25,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "95274b84-9e10-4966-84e8-fb5d912c14f9"
+  ],
+  "prompt": "MEDIUM: the grid board with the fourth and last column empty, a small burnt orange tick shape at its head\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 54,
+  "beat": 25,
+  "mode": "variation",
+  "parent": 53,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the orange tick at the column head fades. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 55,
+  "beat": 26,
+  "mode": "variation",
+  "parent": 54,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the small orange tick shrinks to almost nothing. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 56,
+  "beat": 26,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "95274b84-9e10-4966-84e8-fb5d912c14f9"
+  ],
+  "prompt": "MEDIUM: the grid board with the fourth column empty and only the faintest burnt orange mark at its head\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 57,
+  "beat": 27,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "ff95868c-1e3b-4d69-ba4c-a5e4bf9a4904"
+  ],
+  "prompt": "MEDIUM: a monochrome door cutout standing alone on the cream stage with a thin faint burnt orange stroke behind it\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 58,
+  "beat": 27,
+  "mode": "variation",
+  "parent": 57,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the faint stroke behind the door thins further. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 59,
+  "beat": 28,
+  "mode": "variation",
+  "parent": 58,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the door tips forward revealing bare cream paper behind. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 60,
+  "beat": 28,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "ff95868c-1e3b-4d69-ba4c-a5e4bf9a4904"
+  ],
+  "prompt": "MEDIUM: a monochrome door cutout tipped forward flat on the cream stage with bare cream paper where the room should be\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 61,
+  "beat": 29,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "f6c7e31c-6cb5-4fbc-8247-1923347f3861"
+  ],
+  "prompt": "FULL-SPREAD: two tall dot-matrix columns on the cream stage dense with burnt orange dots, a third and fourth column beside them almost bare\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 62,
+  "beat": 29,
+  "mode": "variation",
+  "parent": 61,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: a few more orange dots fill the dense columns. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 63,
+  "beat": 30,
+  "mode": "variation",
+  "parent": 62,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the two bare columns shrink further while the dense ones hold. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 64,
+  "beat": 30,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "f6c7e31c-6cb5-4fbc-8247-1923347f3861"
+  ],
+  "prompt": "FULL-SPREAD: two dense burnt orange dot columns standing tall on the cream stage beside two nearly invisible monochrome columns\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 65,
+  "beat": 31,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "95274b84-9e10-4966-84e8-fb5d912c14f9"
+  ],
+  "prompt": "MEDIUM: the grid of cards rearranged into a vertical ranked stack on the cream stage, the topmost card burnt orange\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 66,
+  "beat": 31,
+  "mode": "variation",
+  "parent": 65,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the ranked stack squares up into a neat pile. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 67,
+  "beat": 32,
+  "mode": "variation",
+  "parent": 66,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the top five cards separate upward from the stack. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 68,
+  "beat": 32,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "95274b84-9e10-4966-84e8-fb5d912c14f9"
+  ],
+  "prompt": "MEDIUM: a vertical ranked stack of blank cards on the cream stage with the top five cards lifted clear above the rest, each edged burnt orange\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 69,
+  "beat": 33,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee"
+  ],
+  "prompt": "FULL-SPREAD: one deep narrow burnt orange channel cut down through the cream stage beside a wide shallow monochrome smear\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 70,
+  "beat": 33,
+  "mode": "variation",
+  "parent": 69,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the deep orange channel cuts further down. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 71,
+  "beat": 33,
+  "mode": "variation",
+  "parent": 70,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the wide monochrome smear spreads thinner. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 72,
+  "beat": 34,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "0daed658-abeb-4df3-bfa1-3ffe970b9344"
+  ],
+  "prompt": "MEDIUM: five pinned photo cards in a tight row on the cream stage each with a burnt orange stroke, facing a huge faded monochrome drift of paper forms\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 73,
+  "beat": 34,
+  "mode": "variation",
+  "parent": 72,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the five pinned cards edge closer together. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 74,
+  "beat": 34,
+  "mode": "variation",
+  "parent": 73,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the monochrome drift behind them fades. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 75,
+  "beat": 35,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "0daed658-abeb-4df3-bfa1-3ffe970b9344"
+  ],
+  "prompt": "MEDIUM: five pinned photo cards in a tight row on the cream stage each with a burnt orange stroke, the rest of the stage bare cream paper\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 76,
+  "beat": 35,
+  "mode": "variation",
+  "parent": 75,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the faded monochrome drift of forms slides out of frame. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 77,
+  "beat": 36,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "95274b84-9e10-4966-84e8-fb5d912c14f9",
+   "ff95868c-1e3b-4d69-ba4c-a5e4bf9a4904"
+  ],
+  "prompt": "MEDIUM: the grid board standing intact on the cream stage while a monochrome door cutout beside it crumbles away at the edges\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 78,
+  "beat": 36,
+  "mode": "variation",
+  "parent": 77,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: another corner of the door crumbles away. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 79,
+  "beat": 37,
+  "mode": "variation",
+  "parent": 78,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the crumbling door disappears entirely and the board is unchanged. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 80,
+  "beat": 37,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "95274b84-9e10-4966-84e8-fb5d912c14f9",
+   "ff95868c-1e3b-4d69-ba4c-a5e4bf9a4904"
+  ],
+  "prompt": "MEDIUM: the grid board standing whole and intact alone on the cream stage, a burnt orange stroke along its base, no doors anywhere\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 81,
+  "beat": 37,
+  "mode": "variation",
+  "parent": 80,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the board's burnt orange base stroke thickens. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 82,
+  "beat": 38,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "c4f9cab5-dd4c-49ed-b9fd-7227ca986ee3",
+   "95274b84-9e10-4966-84e8-fb5d912c14f9"
+  ],
+  "prompt": "FULL-SPREAD: the oversized monochrome hand lifting the whole grid board cleanly off the cream stage, a burnt orange stroke trailing it\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 83,
+  "beat": 38,
+  "mode": "variation",
+  "parent": 82,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the lifted board rises higher off the stage. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 84,
+  "beat": 38,
+  "mode": "variation",
+  "parent": 83,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the trailing orange stroke lengthens behind it. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 85,
+  "beat": 39,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "16e94bc6-9ece-4f6e-8bef-1630c1955f6b"
+  ],
+  "prompt": "CLOSE-UP: the monochrome hourglass with all the burnt orange sand run through into the lower bulb, a marker circle drawn around it\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ },
+ {
+  "n": 86,
+  "beat": 39,
+  "mode": "variation",
+  "parent": 85,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the marker circle around the hourglass closes. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 87,
+  "beat": 40,
+  "mode": "variation",
+  "parent": 86,
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: a burnt orange arrow draws itself rising away from the hourglass. Do not redraw or re-stage anything else."
+ },
+ {
+  "n": 88,
+  "beat": 40,
+  "mode": "new",
+  "refs": [
+   "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+   "5a140cec-03e4-4f51-a646-fa728429beee",
+   "16e94bc6-9ece-4f6e-8bef-1630c1955f6b"
+  ],
+  "prompt": "CLOSE-UP: the monochrome hourglass fully run through with a burnt orange arrow rising away from it across the cream stage\n\nSTYLE: flat editorial documentary collage on a warm cream paper stage with subtle fiber grain: monochrome halftone archival photo cutouts with rough white keylines and a slightly offset burnt orange stroke behind each cutout, one single burnt orange accent color per video - a large flat burnt orange disc behind the main subject and exactly one color-popped hero element among the monochrome - torn paper edges and tape strips, soft paper drop shadows, hand-drawn burnt orange marker circles, arrows and underline strokes (abstract strokes only, never letters), abstract unlabeled data shapes and flat stylized maps, subtle print misregistration on inked elements, non-photorealistic illustrated collage, never live-action.\n\nPALETTE LOCK: warm cream paper base, monochrome halftone cutouts, ONE burnt orange accent - no other colors, no gradients, no full-color scenes.\n\nNEGATIVE: readable text, letters, words, numbers, live-action footage, photographic realism, full-color scene, foreign accent colors, 3D render."
+ }
+]
