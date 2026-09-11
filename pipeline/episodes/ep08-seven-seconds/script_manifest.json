@@ -1,0 +1,255 @@
+{
+ "genre": "education",
+ "animation_mode": "scene_based",
+ "title": "Your Resume Gets Seven Seconds",
+ "source": "Eye-tracking research on recruiter resume screening",
+ "accent": "deep graphite",
+ "visual_format": "I \u2014 Apple advertisement, seamless white void",
+ "hook": "Your resume gets seven seconds.",
+ "beats": [
+  {
+   "n": 1,
+   "image_mode": "new",
+   "phrase": "Your resume gets seven seconds.",
+   "scene": "HERO: a single blank matte white sheet of paper floating upright dead centre in the white void, lit softly from above, a thin deep graphite band of light falling across its upper third"
+  },
+  {
+   "n": 2,
+   "image_mode": "variation",
+   "phrase": "Not seven minutes, seven seconds.",
+   "variation_of": 1,
+   "change_only": "the graphite band across the upper third of the sheet narrows and sharpens"
+  },
+  {
+   "n": 3,
+   "image_mode": "new",
+   "phrase": "Recruiters were tracked with eye cameras.",
+   "scene": "MEDIUM: a slender deep graphite ring floating alone in the white void above a faint contact shadow, tilted slightly toward the viewer"
+  },
+  {
+   "n": 4,
+   "image_mode": "variation",
+   "phrase": "Here is where they look.",
+   "variation_of": 3,
+   "change_only": "a single thin graphite line drops from the ring straight down through the empty white space"
+  },
+  {
+   "n": 5,
+   "image_mode": "new",
+   "phrase": "Your name, your current title,",
+   "scene": "HERO: a single blank matte white sheet floating upright in the white void with one short graphite bar marked near its top edge"
+  },
+  {
+   "n": 6,
+   "image_mode": "variation",
+   "phrase": "your company, your dates,",
+   "variation_of": 5,
+   "change_only": "a second short graphite bar appears directly below the first on the sheet"
+  },
+  {
+   "n": 7,
+   "image_mode": "variation",
+   "phrase": "the previous title and dates,",
+   "variation_of": 6,
+   "change_only": "a third short graphite bar appears below the second on the sheet"
+  },
+  {
+   "n": 8,
+   "image_mode": "new",
+   "phrase": "then the education line.",
+   "scene": "HERO: a blank matte white sheet upright in the white void carrying four evenly stacked short graphite bars across its upper third, the lower two thirds completely blank"
+  },
+  {
+   "n": 9,
+   "image_mode": "variation",
+   "phrase": "That is the whole scan.",
+   "variation_of": 8,
+   "change_only": "the four graphite bars brighten to a deeper graphite while the rest of the sheet stays blank"
+  },
+  {
+   "n": 10,
+   "image_mode": "variation",
+   "phrase": "Everything else gets skipped.",
+   "variation_of": 9,
+   "change_only": "the lower two thirds of the sheet fades to a paler, almost vanishing white"
+  },
+  {
+   "n": 11,
+   "image_mode": "new",
+   "phrase": "Your bullets are not read,",
+   "scene": "WIDE: three identical blank matte white sheets floating side by side in the white void, evenly spaced, each with a faint graphite band across its upper third"
+  },
+  {
+   "n": 12,
+   "image_mode": "variation",
+   "phrase": "your summary is not read,",
+   "variation_of": 11,
+   "change_only": "the two outer sheets drift slightly further from the centre sheet"
+  },
+  {
+   "n": 13,
+   "image_mode": "variation",
+   "phrase": "not on the first pass.",
+   "variation_of": 12,
+   "change_only": "the centre sheet tilts a few degrees away from the viewer"
+  },
+  {
+   "n": 14,
+   "image_mode": "new",
+   "phrase": "So the top third decides,",
+   "scene": "HERO: a single blank matte white sheet floating in the white void, its upper third lifted clear of the rest as a separate floating panel with a clean shadow gap between them"
+  },
+  {
+   "n": 15,
+   "image_mode": "variation",
+   "phrase": "and most people bury it",
+   "variation_of": 14,
+   "change_only": "the floating upper panel sinks back down toward the sheet"
+  },
+  {
+   "n": 16,
+   "image_mode": "variation",
+   "phrase": "under a skills wall,",
+   "variation_of": 15,
+   "change_only": "a dense block of small graphite squares fills the middle of the sheet below the panel"
+  },
+  {
+   "n": 17,
+   "image_mode": "new",
+   "phrase": "an objective, a driven paragraph.",
+   "scene": "MEDIUM: a blank matte white sheet in the white void crowded with a heavy grid of small graphite squares covering almost its whole surface"
+  },
+  {
+   "n": 18,
+   "image_mode": "variation",
+   "phrase": "None of that survives.",
+   "variation_of": 17,
+   "change_only": "the heavy grid of graphite squares fades to a pale ghost"
+  },
+  {
+   "n": 19,
+   "image_mode": "new",
+   "phrase": "So fix three things.",
+   "scene": "MEDIUM: three identical slender graphite rings floating in a precise vertical column in the white void, evenly spaced, each casting its own small contact shadow"
+  },
+  {
+   "n": 20,
+   "image_mode": "variation",
+   "phrase": "One, match the posting's title,",
+   "variation_of": 19,
+   "change_only": "the topmost ring fills solid deep graphite"
+  },
+  {
+   "n": 21,
+   "image_mode": "variation",
+   "phrase": "their words, not yours.",
+   "variation_of": 20,
+   "change_only": "a second blank white sheet slides in behind the column of rings, perfectly aligned"
+  },
+  {
+   "n": 22,
+   "image_mode": "new",
+   "phrase": "Two, add one real number,",
+   "scene": "MEDIUM: a single solid deep graphite disc floating beside a blank matte white sheet in the white void, the disc small and precise"
+  },
+  {
+   "n": 23,
+   "image_mode": "variation",
+   "phrase": "scale beats adjectives every time.",
+   "variation_of": 22,
+   "change_only": "the graphite disc grows noticeably larger beside the sheet"
+  },
+  {
+   "n": 24,
+   "image_mode": "new",
+   "phrase": "Three, delete the objective.",
+   "scene": "HERO: a blank matte white sheet floating in the white void with one clean rectangular void cut out of its middle, the white background visible through the gap"
+  },
+  {
+   "n": 25,
+   "image_mode": "variation",
+   "phrase": "Nobody has ever read one.",
+   "variation_of": 24,
+   "change_only": "the cut rectangle drifts away from the sheet as a separate floating piece"
+  },
+  {
+   "n": 26,
+   "image_mode": "new",
+   "phrase": "Then test it yourself,",
+   "scene": "MEDIUM: a blank matte white sheet floating upright in the white void with a single slender graphite ring hovering just in front of its upper third"
+  },
+  {
+   "n": 27,
+   "image_mode": "variation",
+   "phrase": "cover everything below the fold,",
+   "variation_of": 26,
+   "change_only": "a clean matte white panel slides up to cover the lower two thirds of the sheet"
+  },
+  {
+   "n": 28,
+   "image_mode": "variation",
+   "phrase": "and look for seven seconds.",
+   "variation_of": 27,
+   "change_only": "the graphite ring in front of the upper third brightens to a deeper graphite"
+  },
+  {
+   "n": 29,
+   "image_mode": "new",
+   "phrase": "What did you learn?",
+   "scene": "HERO: a completely blank matte white sheet floating alone upright in the white void, nothing marked on it at all, one soft contact shadow below"
+  },
+  {
+   "n": 30,
+   "image_mode": "variation",
+   "phrase": "If nothing, rewrite the top.",
+   "variation_of": 29,
+   "change_only": "a single crisp graphite bar appears across the upper third of the blank sheet"
+  },
+  {
+   "n": 31,
+   "image_mode": "new",
+   "phrase": "This is not about design.",
+   "scene": "WIDE: two identical blank matte white sheets floating side by side in the white void at the same height, evenly lit, indistinguishable"
+  },
+  {
+   "n": 32,
+   "image_mode": "variation",
+   "phrase": "Fonts never failed anyone,",
+   "variation_of": 31,
+   "change_only": "the left sheet tilts slightly forward toward the viewer"
+  },
+  {
+   "n": 33,
+   "image_mode": "variation",
+   "phrase": "buried information fails everyone.",
+   "variation_of": 32,
+   "change_only": "a dense block of small graphite squares fills the lower half of the right sheet"
+  },
+  {
+   "n": 34,
+   "image_mode": "new",
+   "phrase": "The scan is shallow and fast,",
+   "scene": "MEDIUM: a slender deep graphite ring floating in the white void with a single thin graphite line sweeping horizontally through it"
+  },
+  {
+   "n": 35,
+   "image_mode": "variation",
+   "phrase": "so build for the scan.",
+   "variation_of": 34,
+   "change_only": "the horizontal line thickens into a solid graphite band"
+  },
+  {
+   "n": 36,
+   "image_mode": "new",
+   "phrase": "Seven seconds is the budget.",
+   "scene": "HERO: a single blank matte white sheet floating upright dead centre in the white void, one bold solid graphite band filling its upper third, the rest pristine and empty"
+  },
+  {
+   "n": 37,
+   "image_mode": "variation",
+   "phrase": "Spend all of it up top.",
+   "variation_of": 36,
+   "change_only": "the graphite band across the upper third deepens to near black"
+  }
+ ]
+}
