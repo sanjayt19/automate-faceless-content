@@ -1,7 +1,7 @@
 {
   "episode": "ep04-message",
   "title": "The Message That Actually Gets Answered",
-  "status": "frames_complete",
+  "status": "complete",
   "narration_seconds": 76.9,
   "beats": 40,
   "frames": 77,
@@ -86,5 +86,13 @@
     "73": "72598ad5-a2fd-4d98-9dcf-d47415855aac",
     "74": "064cf8e1-7dec-4dc7-abe6-a99f2896a84e",
     "77": "04482454-fdfc-4161-812f-3822f97b2573"
+  },
+  "outputs": {
+    "final_captioned": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/57c3eaeb-8b00-4a05-8ea1-36364500abee.mp4",
+    "duration_seconds": 77.0,
+    "resolution": "1080x1920 native",
+    "frames": 77,
+    "captions": "burned, bold tiktok face, 46 cues, whisper similarity 0.9657",
+    "cover": "frame 76, https://d8j0ntlcm91z4.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/hf_20260911_063838_2be16557-faf5-423d-97cc-d5f71b94ea26.png"
   }
 }

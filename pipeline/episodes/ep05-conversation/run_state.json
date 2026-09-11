@@ -1,7 +1,7 @@
 {
   "episode": "ep05-conversation",
   "title": "The Fifteen Minutes That Change Everything",
-  "status": "frames_complete",
+  "status": "complete",
   "narration_seconds": 80.98,
   "beats": 40,
   "frames": 79,
@@ -88,5 +88,13 @@
     "77": "fd2ecf89-d186-476e-a763-03d5cf39b7d9",
     "78": "cfb461ea-c66a-4db1-92af-be9585380106",
     "79": "80ede851-2404-4e93-b588-806d2a99ca88"
+  },
+  "outputs": {
+    "final_captioned": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/9987fd39-cb63-4bb7-93d1-1222e1a30a7f.mp4",
+    "duration_seconds": 81.1,
+    "resolution": "1080x1920 native",
+    "frames": 79,
+    "captions": "burned, bold tiktok face, 47 cues, whisper similarity 0.9688",
+    "cover": "frame 78, https://d8j0ntlcm91z4.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/hf_20260911_064520_cfb461ea-c66a-4db1-92af-be9585380106.png"
   }
 }
