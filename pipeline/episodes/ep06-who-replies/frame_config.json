@@ -180,6 +180,91 @@
       "character"
     ]
   },
-  "var_scenes": {},
-  "extras": {}
+  "var_scenes": {
+    "2": "MEDIUM: a single bare blank monochrome note alone at the centre of the cream stage with the grey notes gone",
+    "4": "WIDE: three small flat burnt orange discs spaced apart on the bare cream stage",
+    "6": "CLOSE-UP: a wide burnt orange arc opening outward from a monochrome cutout figure on the cream stage",
+    "9": "MEDIUM: a monochrome cutout figure turned partly away on the cream stage, a thin faint burnt orange stroke beside them",
+    "11": "MEDIUM: a small stack of blank monochrome cards at the base of a half-turned cutout figure on the cream stage",
+    "13": "WIDE: a monochrome cutout figure at one edge of the cream stage with a wide expanse of bare cream paper before them",
+    "15": "CLOSE-UP: three identical blank monochrome cards on the cream stage with no hand anywhere in frame",
+    "17": "MEDIUM: two tall monochrome column cutouts side by side on the cream stage, both crossed out in burnt orange",
+    "19": "CLOSE-UP: a monochrome cutout figure inside a thick warm burnt orange halo stroke on the cream stage",
+    "21": "WIDE: three identical monochrome cutout figures on the cream stage with a burnt orange marker circle around the middle one",
+    "23": "MEDIUM: three burnt orange arrows leaving a row of blank notes at once across the cream stage",
+    "25": "CLOSE-UP: one monochrome cutout figure on the cream stage carrying a thick burnt orange stroke across them",
+    "27": "CLOSE-UP: a single blank note on the cream stage with a pale grey tick above it and no orange anywhere",
+    "29": "MEDIUM: a monochrome cutout figure stretching one arm far across bare cream paper toward a turned-away figure",
+    "31": "CLOSE-UP: a still monochrome hourglass on the cream stage under a heavy burnt orange cross stroke",
+    "33": "WIDE: a row of small monochrome cutout figures on the cream stage with two much larger burnt orange edged figures among them",
+    "35": "MEDIUM: two monochrome cutout figures standing together on a very wide flat burnt orange disc",
+    "37": "FULL-SPREAD: a dense burnt orange branching network spreading wide across the cream stage between small figures",
+    "39": "MEDIUM: a monochrome hourglass on the cream stage with a very long burnt orange sweep arrow beside it"
+  },
+  "extras": {
+    "1": [
+      "the enormous orange cross stroke over the notes thickens"
+    ],
+    "3": [
+      "the note turns slightly on the stage"
+    ],
+    "5": [
+      "the three figures step further apart"
+    ],
+    "7": [
+      "the orange arc around the figure widens",
+      "a second thinner arc appears outside the first"
+    ],
+    "8": [
+      "the open door swings wider"
+    ],
+    "10": [
+      "the figure turns a little further away"
+    ],
+    "12": [
+      "the bare cream paper in front of the figure widens"
+    ],
+    "14": [
+      "the hand lowers slightly toward the cards"
+    ],
+    "16": [
+      "the cross stroke over the column thickens"
+    ],
+    "18": [
+      "the halo stroke around the figure tightens"
+    ],
+    "20": [
+      "the three figures shift into an even row"
+    ],
+    "22": [
+      "the bending orange arrow curves further"
+    ],
+    "24": [
+      "the orange stroke on the middle figure lengthens"
+    ],
+    "26": [
+      "the orange tick above the note thickens"
+    ],
+    "28": [
+      "the reaching figure leans further forward"
+    ],
+    "30": [
+      "a burnt orange marker circle draws around the still hourglass"
+    ],
+    "32": [
+      "the two orange edged figures brighten"
+    ],
+    "34": [
+      "the orange disc under the two figures grows"
+    ],
+    "36": [
+      "two more branching strokes reach outward"
+    ],
+    "38": [
+      "the orange sand in the hourglass runs lower"
+    ],
+    "40": [
+      "the burnt orange disc under the two figures widens"
+    ]
+  }
 }
