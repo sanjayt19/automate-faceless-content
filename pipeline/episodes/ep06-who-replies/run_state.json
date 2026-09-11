@@ -1,7 +1,7 @@
 {
   "episode": "ep06-who-replies",
   "title": "Twenty Messages, Zero Replies",
-  "status": "frames_complete",
+  "status": "complete",
   "narration_seconds": 86.98,
   "beats": 40,
   "frames": 81,
@@ -90,5 +90,16 @@
     "79": "e5fffaa6-c8d2-4062-8465-f84564aa4023",
     "80": "d5927353-8ac8-4087-aa6a-6f6a856dd9d4",
     "81": "078bc02d-0e8b-41da-9059-d0c6d806fce6"
+  },
+  "outputs": {
+    "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/bd45eaae-d2cc-49c3-9f67-649a157aa230.mp4",
+    "media_id": "bd45eaae-d2cc-49c3-9f67-649a157aa230",
+    "video_seconds": 87.066667,
+    "narration_seconds": 86.981995,
+    "frames": 81,
+    "captions": 48,
+    "alignment_similarity": 0.9518,
+    "resolution": "1080x1920",
+    "fps": 30
   }
 }
