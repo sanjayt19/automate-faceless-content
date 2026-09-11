@@ -1,7 +1,7 @@
 {
   "episode": "ep02-volume-trap",
   "title": "Why Applying To More Jobs Makes It Worse",
-  "status": "frames in progress",
+  "status": "complete",
   "narration_seconds": 80.0,
   "beats": 40,
   "frames": 85,
@@ -45,5 +45,12 @@
     "52": "6c192679-c339-4eac-aa00-317acf7673dc",
     "54": "7b74ade8-4ab2-41d9-aaa5-8f7998da344b"
   },
-  "remaining_new_frames": [56, 59, 61, 63, 66, 69, 70, 71, 74, 75, 78, 79, 82, 83]
+  "outputs": {
+    "clean_master": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/5b50045f-7aa4-48cf-9690-8929d2a88808.mp4",
+    "final_captioned": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/fb407973-84dd-4db6-8d96-d530cbf76d13.mp4",
+    "cover": "https://d8j0ntlcm91z4.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/hf_20260911_021251_ff9a5064-5dfb-4197-9c94-96f95b08bb55.png",
+    "duration_seconds": 80.07,
+    "resolution": "1080x1920 native, no upscale",
+    "captions": "burned, bold tiktok face with outline, 48 cues, 197 words, whisper similarity 0.97"
+  }
 }
