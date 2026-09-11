@@ -1,7 +1,7 @@
 {
   "episode": "ep03-forty-companies",
   "title": "Forty Companies In Forty Minutes",
-  "status": "frames in progress",
+  "status": "complete",
   "narration_seconds": 82.9,
   "beats": 40,
   "frames": 88,
@@ -28,5 +28,12 @@
     "33": "e875683b-27b6-47b6-bd9c-e627f7b3fbf0",
     "35": "f46de170-e89d-4d21-9e05-8a28a47050de"
   },
-  "remaining_new_frames": [38, 41, 44, 45, 48, 50, 53, 56, 57, 60, 61, 64, 65, 68, 69, 72, 75, 77, 80, 82, 85, 88]
+  "outputs": {
+    "clean_master": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/272f156f-20ca-442d-8f41-f37c077157fa.mp4",
+    "final_captioned": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/acf31b52-ea0b-4540-98b1-6b7fd42a8c52.mp4",
+    "cover": "https://d8j0ntlcm91z4.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/hf_20260911_031636_9aee267b-cb43-47fc-a97c-eecbc8adcd4d.png",
+    "duration_seconds": 83.07,
+    "resolution": "1080x1920 native",
+    "captions": "burned, bold tiktok face with outline, 56 cues, 208 words, whisper similarity 0.96"
+  }
 }
