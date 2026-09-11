@@ -1,7 +1,7 @@
 {
   "episode": "ep07-week-three",
   "title": "Why Your Search Dies In Week Three",
-  "status": "frames_complete",
+  "status": "complete",
   "narration_seconds": 83.14,
   "beats": 40,
   "frames": 78,
@@ -87,5 +87,12 @@
     "76": "00c4a3d0-2a78-4464-84b4-ac500a5025a8",
     "77": "59e09b17-894a-420c-8ef8-fe989ba7acd2",
     "78": "afba7b62-71aa-4aa5-8cd3-208a52eceb10"
+  },
+  "outputs": {
+    "final_captioned": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/755882bb-aa83-4863-b52d-b594de704f25.mp4",
+    "duration_seconds": 83.3,
+    "resolution": "1080x1920 native",
+    "frames": 78,
+    "captions": "burned, bold tiktok face, 50 cues, whisper similarity 0.983"
   }
 }
