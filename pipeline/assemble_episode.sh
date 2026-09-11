@@ -14,7 +14,7 @@ HF="${HF_WORKFLOWS}/faceless-video/scripts"
 
 mkdir -p work/voices work/output work/frames
 for f in script_manifest.json scene_manifest.json frame_results.json; do
-  curl -fsSL --retry 3 "$RAW/$f" -o "$f"
+  curl -fsSL -H 'Cache-Control: no-cache' --retry 3 "$RAW/$f?cb=$(date +%s)" -o "$f"
 done
 
 curl -fsSL --retry 3 "$NARRATION_URL" -o raw_narration.mp3
