@@ -1,8 +1,8 @@
-# Posting sheet: episodes 1 to 7
+# Posting sheet: episodes 1 to 8
 
-Seven finished reels. Vertical 1080x1920, burned captions, narrator Arthur, the same
+Eight finished reels. Vertical 1080x1920, burned captions, narrator Arthur, the same
 Editorial Motion Graphics look throughout. Every runtime is under the 90 second
-Instagram Reels ceiling, so all seven are eligible for the Reels tab.
+Instagram Reels ceiling, so all eight are eligible for the Reels tab.
 
 Episodes 2 to 7 are one six part arc from *The 2-Hour Job Search* by Steve Dalton and
 go on Shvii's accounts. Episode 1 is a standalone from *Atomic Habits*.
@@ -16,6 +16,11 @@ go on Shvii's accounts. Episode 1 is a standalone from *Atomic Habits*.
 | 5 | The Fifteen Minutes That Change Everything | 81s | The 2-Hour Job Search, Steve Dalton |
 | 6 | Twenty Messages, Zero Replies | 87s | The 2-Hour Job Search, Steve Dalton |
 | 7 | Why Your Job Search Dies In Week Three | 83s | The 2-Hour Job Search, Steve Dalton |
+| 8 | Your Resume Gets Seven Seconds | 81s | Eye-tracking research on recruiter screening |
+
+Episode 8 opens a separate hiring-side arc and is the first made in visual format
+I, the white-void look. Post it after the Dalton arc and compare its completion
+rate against the others before committing the rest of that arc to the new format.
 
 Episodes 2 to 7 run in order. Each one is the answer to the problem the previous one
 set up, so posting them out of order costs you the thread. Episode 1 can go anywhere.
@@ -160,6 +165,30 @@ Part 6 of 6.
 **Hashtags**
 
 #jobsearch #careeradvice #jobhunting #networking #productivity #linkedintips #jobseeker #careertips #booksummary #the2hourjobsearch
+
+---
+
+## Episode 8 — Your Resume Gets Seven Seconds
+
+**Caption**
+
+Your resume gets seven seconds. Not seven minutes.
+
+Recruiters were tracked with eye cameras. Name, current title, company, dates,
+previous title, education. That is the whole scan. Your bullets are never read on
+the first pass.
+
+So the top third carries everything, and most people bury it under a skills wall
+and an objective.
+
+Match the posting's title. Add one real number. Delete the objective.
+
+Then cover everything below the fold and look for seven seconds. If you learned
+nothing, rewrite the top.
+
+**Hashtags**
+
+#resume #resumetips #jobsearch #careeradvice #jobhunting #hiring #recruiting #jobseeker #careertips #linkedintips
 
 ---
 
