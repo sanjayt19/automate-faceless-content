@@ -27,7 +27,7 @@ python3 "$HF/bind_scene_frame_results.py" --manifest scene_manifest.json \
   --results frame_results.json --out scene_manifest.bound.json
 python3 "$HF/materialize_scene_frames.py" --manifest scene_manifest.bound.json --frames-dir work/frames
 
-chmod +x "$HF"/*.sh "$HF"/*/*.sh
+chmod +x "$HF"/*.sh
 bash "$HF/assemble_slides.sh" --out work/output/final_clean.mp4 --audio work/voices/narration.wav \
   --blocks "$BLOCKS" --timeline scene_manifest.bound.json --frames-dir work/frames \
   --requested-seconds "$SECONDS_TARGET"
