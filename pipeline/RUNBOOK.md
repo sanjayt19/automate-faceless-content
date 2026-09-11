@@ -110,6 +110,13 @@ count is the only reliable lever. Cut words.**
 If a take comes back over 90 seconds, do not try to speed it up in post. Cut
 ten words and re-narrate. It costs one TTS call.
 
+**Every reel stands alone.** This replaces the arc format used for episodes 2 to
+7. A viewer who lands on any reel cold must get a complete idea and one action
+from that reel alone. No callbacks, no part numbers, no "in the last video". Two
+reels may reinforce each other, but neither may depend on the other. The reason
+is simple: on these platforms almost every view is someone's first, and a reel
+that opens mid-argument loses them in the first second.
+
 **Structure that works**
 
 1. **Beat 1 is the hook and it must land inside three seconds.** Not a preamble,
