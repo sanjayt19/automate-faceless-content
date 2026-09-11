@@ -5,11 +5,15 @@
 # between calls. Inputs come from the repo (script, timeline, frame results)
 # and from durable generation URLs (narration, frames).
 #
-# Usage: assemble_episode.sh <episode-dir-name> <narration-mp3-url> <frame-count> <requested-seconds> [upload-url]
+# Usage: REF=<commit-sha> assemble_episode.sh <episode-dir-name> <narration-mp3-url> <frame-count> <requested-seconds> [upload-url]
+#
+# Pin REF to a commit sha: raw.githubusercontent.com caches branch paths for
+# minutes and ignores query strings, so a branch path can serve a stale file.
 set -euo pipefail
 
 EP="$1"; NARRATION_URL="$2"; BLOCKS="$3"; SECONDS_TARGET="$4"; UPLOAD_URL="${5:-}"
-RAW="https://raw.githubusercontent.com/sanjayt19/automate-faceless-content/claude/automated-video-shorts-lq2gya/pipeline/episodes/$EP"
+REF="${REF:-claude/automated-video-shorts-lq2gya}"
+RAW="https://raw.githubusercontent.com/sanjayt19/automate-faceless-content/$REF/pipeline/episodes/$EP"
 HF="${HF_WORKFLOWS}/faceless-video/scripts"
 
 mkdir -p work/voices work/output work/frames
