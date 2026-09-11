@@ -167,6 +167,93 @@
       "character"
     ]
   },
-  "var_scenes": {},
-  "extras": {}
+  "var_scenes": {
+    "2": "MEDIUM: two monochrome cutout figures seated facing each other with a heavy burnt orange cross stroke filling the gap between them on the cream stage",
+    "6": "MEDIUM: a large blank monochrome placard lying flat on the cream stage under a burnt orange cross stroke, a cutout figure standing empty handed behind it",
+    "8": "CLOSE-UP: five thick solid burnt orange ladder rungs stacked on the cream stage beside the edge of a monochrome book cutout",
+    "10": "CLOSE-UP: a burnt orange arrow pointing at the bright lowest rung of a hand-drawn burnt orange ladder on the cream stage",
+    "12": "WIDE: a row of small monochrome cutout figures across the cream stage beneath a line of thick burnt orange ticks",
+    "14": "CLOSE-UP: a hand-drawn burnt orange marker circle around the second rung of a burnt orange ladder on the cream stage",
+    "18": "MEDIUM: two small monochrome cutout figures leaning toward one bright burnt orange ladder rung on the cream stage",
+    "20": "CLOSE-UP: a small monochrome book cutout resting beneath the fourth rung of a burnt orange ladder on the cream stage",
+    "23": "MEDIUM: a dense column of small blank monochrome cards standing beside the top rung of a burnt orange ladder on the cream stage",
+    "26": "FULL-SPREAD: a five rung burnt orange ladder tilted forward toward the viewer on the cream stage against bare cream paper",
+    "28": "MEDIUM: the oversized monochrome hand lifted clear above a blank paper note carrying a few short burnt orange strokes on the cream stage",
+    "30": "MEDIUM: a monochrome cutout figure on the cream stage with three burnt orange arrows fanning outward from them toward the frame edges",
+    "33": "MEDIUM: a monochrome door cutout on the cream stage with a burnt orange arc arriving toward it from outside the frame",
+    "35": "CLOSE-UP: a small blank monochrome note on the cream stage carrying three short burnt orange strokes stacked on it",
+    "37": "MEDIUM: a monochrome hourglass on the cream stage fully run through with all the burnt orange sand in the lower chamber"
+  },
+  "extras": {
+    "1": [
+      "the orange disc behind the two figures grows larger"
+    ],
+    "4": [
+      "a few more grains of orange sand settle in the lower chamber"
+    ],
+    "5": [
+      "the cross over the placard thickens"
+    ],
+    "7": [
+      "the orange disc behind the book grows larger"
+    ],
+    "9": [
+      "the bright lowest rung thickens"
+    ],
+    "11": [
+      "two more small figures step into the row"
+    ],
+    "13": [
+      "the bright second rung thickens"
+    ],
+    "15": [
+      "the leaning figure moves further into the frame"
+    ],
+    "17": [
+      "the curving orange arrow lengthens"
+    ],
+    "19": [
+      "the bright fourth rung thickens"
+    ],
+    "21": [
+      "the orange edge around the small book thickens"
+    ],
+    "22": [
+      "the bright top rung thickens"
+    ],
+    "24": [
+      "the orange bracket around the column thickens"
+    ],
+    "25": [
+      "the whole orange ladder thickens into solid strokes",
+      "a soft paper drop shadow deepens under the ladder"
+    ],
+    "27": [
+      "two more short orange strokes appear on the note"
+    ],
+    "29": [
+      "the single orange arrow lengthens toward the other figure"
+    ],
+    "31": [
+      "the two pale grey arrows fade further"
+    ],
+    "32": [
+      "the cross over the door thickens"
+    ],
+    "34": [
+      "the orange arrow rising from the note lengthens"
+    ],
+    "36": [
+      "more orange sand falls through the hourglass neck"
+    ],
+    "38": [
+      "the marker circle around the hourglass closes"
+    ],
+    "39": [
+      "the three branching orange strokes lengthen"
+    ],
+    "40": [
+      "the branching orange network spreads wider across the stage"
+    ]
+  }
 }

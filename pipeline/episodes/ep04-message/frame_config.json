@@ -187,6 +187,89 @@
       "form"
     ]
   },
-  "var_scenes": {},
-  "extras": {}
+  "var_scenes": {
+    "2": "CLOSE-UP: a monochrome mesh grid laid flat over a single blank paper note on the cream stage, a burnt orange cross stroke showing under the mesh",
+    "4": "WIDE: a dense field of identical pale grey paper notes filling the cream stage with no orange note anywhere among them",
+    "6": "MEDIUM: a bare cream stage crossed by one long burnt orange sweep arrow, the last corner of a grey note leaving the bottom edge",
+    "9": "CLOSE-UP: a small blank monochrome note leaning against the base of a monochrome book cutout on the cream stage, a burnt orange stroke along the note edge",
+    "11": "MEDIUM: a thick block of dense grey lines standing on the cream stage with a heavy burnt orange cross stroke drawn through it",
+    "13": "CLOSE-UP: a short burnt orange stub stroke on a blank note beside a much longer pale grey line trailing off across the cream stage",
+    "15": "CLOSE-UP: a monochrome magnifier shape resting over a single short burnt orange stroke on a blank paper note",
+    "19": "WIDE: a row of identical pale grey note copies crumbling away across the cream stage with one intact burnt orange stroke at the end",
+    "21": "MEDIUM: a small monochrome hourglass standing beside a blank paper note on the cream stage, a burnt orange arc drawn between them",
+    "27": "MEDIUM: a dense grid of small grey squares on the cream stage with one large burnt orange cross stroke drawn over the whole grid",
+    "30": "MEDIUM: a thick monochrome document block sliding off the left edge of the cream stage, a burnt orange stroke trailing behind it",
+    "32": "CLOSE-UP: a single burnt orange edged note at the centre of the cream stage inside a hand-drawn burnt orange marker circle",
+    "34": "CLOSE-UP: a very small blank monochrome note beside a much larger pale grey note on the cream stage, the small one edged burnt orange",
+    "37": "WIDE: ten small burnt orange edged notes standing in one neat row across the cream stage, bare cream paper behind them",
+    "39": "CLOSE-UP: one blank note carrying a single hand-drawn burnt orange mark alone on the cream stage with nothing behind it"
+  },
+  "extras": {
+    "1": [
+      "the burnt orange cross stroke over the note thickens"
+    ],
+    "3": [
+      "three more identical notes drop onto the stack"
+    ],
+    "4": [
+      "the grey field of notes packs tighter together"
+    ],
+    "5": [
+      "the sweeping hand pushes further to the right"
+    ],
+    "7": [
+      "the orange cross over the note thickens at its centre"
+    ],
+    "8": [
+      "the orange disc behind the book grows larger"
+    ],
+    "10": [
+      "the six short orange strokes thicken together"
+    ],
+    "12": [
+      "the faded strokes below drop further into pale grey"
+    ],
+    "14": [
+      "the orange circle around the second stroke closes"
+    ],
+    "16": [
+      "the cross over the plaque lengthens past its edges"
+    ],
+    "18": [
+      "the paper drop shadow under the stroke deepens"
+    ],
+    "20": [
+      "the small orange arrow beside the stroke lengthens"
+    ],
+    "22": [
+      "the cross over the door thickens"
+    ],
+    "24": [
+      "the two figures turn slightly toward each other"
+    ],
+    "26": [
+      "the two cards slide closer together"
+    ],
+    "29": [
+      "the cross over the document block thickens"
+    ],
+    "31": [
+      "three of the grey notes drift further apart"
+    ],
+    "33": [
+      "a few grains of orange sand fall through the hourglass"
+    ],
+    "35": [
+      "the hand rises further and the trailing stroke lengthens"
+    ],
+    "36": [
+      "the large orange cross over the drift thickens"
+    ],
+    "38": [
+      "the single orange mark on the note lengthens"
+    ],
+    "40": [
+      "the orange disc behind the standing note grows larger"
+    ]
+  }
 }
