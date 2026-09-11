@@ -46,6 +46,7 @@ These are hard walls. Every one of them was found by hitting it.
 | Runtime ceiling | 90 seconds | Below this a video is eligible for the Instagram Reels tab. Over it, it is not. Target 85. |
 | Runtime floor | 5 seconds | Same eligibility rule. Never a problem in practice. |
 | Aspect | 9:16 | All three platforms. |
+| Caption band | 30% up, 72% wide | The union of TikTok, Reels and Shorts overlays. See below. |
 | Beat density | 25 to 35 beats per minute | `validate_picture_story.py` rejects the script outside this band. |
 | Words per phrase | 4 to 8 | Same validator. Caption legibility. |
 | Total words | duration x 2.5 maximum | Same validator. This is a ceiling, not a target. See section 4. |
@@ -137,9 +138,22 @@ not negotiable.
 ## 5. The visual system
 
 One style, locked, across the whole channel. Editorial Motion Graphics: flat
-vector, cream ground, muted slate and terracotta, one simplified faceless
+vector, cream ground, monochrome halftone cutouts, one simplified faceless
 figure, heavy negative space. It is deliberately unfashionable. It reads as a
 serious publication rather than a content account, which is the point.
+
+**The accent is deep pine green**, one colour and no other, replacing the burnt
+orange used through episodes 1 to 7. Green sits against the warm cream rather
+than blending into it, and almost nothing in this category uses it, which is the
+whole reason to pick it.
+
+**Formats other than this one have been tried and rejected.** The white-void
+Apple look was built as episode 8. It does not work: with an empty ground there
+is nothing in frame for an edit to change, so the cuts read as a slideshow
+rather than as motion. The collage style carries movement because each frame has
+texture, torn edges and a figure to move against. That is not a preference, it
+is the mechanism. Do not swap the ground out again without testing one episode
+first.
 
 Frames come in two kinds and the rhythm between them is what makes the video
 feel authored rather than generated.
@@ -277,6 +291,15 @@ decimals, leaving sub-frame gaps. Build frames so each one starts exactly where
 the previous ends. The assembler fails on any discrepancy above 0.01s.
 
 **`sleep 60` hits the 60 second tool timeout.** Use 50 to 55.
+
+**Captions were being cut off on two platforms out of three.** The caption tool
+defaults to 17% up from the bottom, which is Instagram's safe zone and nothing
+else. TikTok puts its own caption block and music ticker over that band, and the
+Shorts title overlay reaches it too. The assembly script now passes
+`--bottom-frac 0.30 --maxw-frac 0.72`: 30% up clears all three bottom overlays,
+and 72% width keeps the text clear of the right-hand action rail, which takes
+about 15% of the frame on both TikTok and Reels. Do not revert to the defaults
+to gain a little more line length.
 
 **MCP servers disconnect mid-session.** Reload the tool schemas and carry on.
 

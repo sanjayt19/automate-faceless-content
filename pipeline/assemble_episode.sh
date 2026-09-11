@@ -40,8 +40,14 @@ chmod +x "${HF_WORKFLOWS}"/subtitles/scripts/*.sh
 bash "${HF_WORKFLOWS}/subtitles/scripts/fetch_fonts.sh"
 python3 "${HF_WORKFLOWS}/subtitles/scripts/audio_to_captions.py" work/voices/narration.wav \
   --srt work/output/final.srt --script script_manifest.json --language en
+# Caption placement is the union of three platforms' safe zones, not just one.
+# The tool's default sits 17% up, which clears Instagram Reels but is covered by
+# TikTok's caption block and music ticker and by the Shorts title overlay. 30%
+# clears all three. Width drops to 72% so the right-hand action rail, about 15%
+# of the frame on TikTok and Reels, does not sit over the text.
 python3 "${HF_WORKFLOWS}/subtitles/scripts/subtitle_paper_burn.py" --in work/output/final_clean.mp4 \
-  --srt work/output/final.srt --out work/output/final.mp4 --style bold --font-key tiktok
+  --srt work/output/final.srt --out work/output/final.mp4 --style bold --font-key tiktok \
+  --bottom-frac 0.30 --maxw-frac 0.72
 
 ffprobe -v error -show_entries stream=codec_type,duration -of csv=p=0 work/output/final.mp4
 python3 -c "import json;d=json.load(open('work/output/final_clean.mp4.assembly.json'));print('SIDECAR frames',d.get('frames'),'blocks',d.get('blocks'))"

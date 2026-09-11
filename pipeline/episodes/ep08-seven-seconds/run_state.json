@@ -1,7 +1,7 @@
 {
   "episode": "ep08-seven-seconds",
   "title": "Your Resume Gets Seven Seconds",
-  "status": "complete",
+  "status": "parked",
   "visual_format": "I - Apple advertisement, seamless white void",
   "narration_seconds": 81.06,
   "beats": 37,
@@ -104,5 +104,6 @@
     "caption_alignment_similarity": 0.9972,
     "resolution": "1080x1920",
     "fps": 30
-  }
+  },
+  "parked_reason": "Topic rejected by the channel owner. Not for release."
 }

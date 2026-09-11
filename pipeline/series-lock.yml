@@ -17,7 +17,10 @@ locked_assets:
   narrator_voice_id: 30fc8796-ceb6-4a66-b3a7-4a145ef7f346
   narrator_voice_type: preset
   narrator_voice_name: Arthur
-  caption_style: bold          # burned, tiktok face, black outline, bottom safe zone
+  caption_style: bold          # burned, tiktok face, black outline
+  caption_bottom_frac: 0.30    # clears TikTok, Reels and Shorts bottom overlays
+  caption_maxw_frac: 0.72      # clears the right-hand action rail
+  accent_color: deep pine green  # replaced burnt orange after episode 8
   render_resolution: 1.5k      # episode 1 rendered at 1k and needed an upscale to 1080x1920
 
 rights:
