@@ -1,0 +1,271 @@
+{
+ "genre": "education",
+ "animation_mode": "scene_based",
+ "title": "Why Your Search Dies In Week Three",
+ "book": "The 2-Hour Job Search",
+ "author": "Steve Dalton",
+ "accent": "burnt orange",
+ "hook": "Job searches die in week three.",
+ "beats": [
+  {
+   "n": 1,
+   "image_mode": "new",
+   "phrase": "Job searches die in week three.",
+   "scene": "FULL-SPREAD: a long burnt orange line running across the cream stage that breaks off sharply a third of the way along"
+  },
+  {
+   "n": 2,
+   "image_mode": "variation",
+   "phrase": "Not from low effort.",
+   "variation_of": 1,
+   "change_only": "a burnt orange arrow pushes hard against the break in the line"
+  },
+  {
+   "n": 3,
+   "image_mode": "new",
+   "phrase": "They die from drift.",
+   "scene": "MEDIUM: a scatter of loose blank monochrome cards drifting apart on the cream stage"
+  },
+  {
+   "n": 4,
+   "image_mode": "variation",
+   "phrase": "Week one, ten messages,",
+   "variation_of": 3,
+   "change_only": "the drifting cards spread further apart across the stage"
+  },
+  {
+   "n": 5,
+   "image_mode": "new",
+   "phrase": "week two, four reply,",
+   "scene": "WIDE: ten small monochrome cutout figures in a row on the cream stage, four of them edged burnt orange"
+  },
+  {
+   "n": 6,
+   "image_mode": "variation",
+   "phrase": "week three, you forget who.",
+   "variation_of": 5,
+   "change_only": "the four orange edged figures fade back to plain monochrome"
+  },
+  {
+   "n": 7,
+   "image_mode": "new",
+   "phrase": "Momentum dies in gaps.",
+   "scene": "MEDIUM: a wide gap of bare cream paper between two groups of blank cards, a broken burnt orange stroke across it"
+  },
+  {
+   "n": 8,
+   "image_mode": "variation",
+   "phrase": "Dalton fixes this with counting.",
+   "variation_of": 7,
+   "change_only": "the broken orange stroke thins until it nearly disappears"
+  },
+  {
+   "n": 9,
+   "image_mode": "new",
+   "phrase": "Keep a fixed set.",
+   "scene": "MEDIUM: three blank monochrome cards standing upright in a tight row on the cream stage, each edged burnt orange"
+  },
+  {
+   "n": 10,
+   "image_mode": "variation",
+   "phrase": "Never let it shrink.",
+   "variation_of": 9,
+   "change_only": "a burnt orange bracket closes around the three cards"
+  },
+  {
+   "n": 11,
+   "image_mode": "new",
+   "phrase": "Pick what you handle,",
+   "scene": "CLOSE-UP: the oversized monochrome hand setting a third blank card down beside two others"
+  },
+  {
+   "n": 12,
+   "image_mode": "variation",
+   "phrase": "three live conversations is plenty.",
+   "variation_of": 11,
+   "change_only": "the hand lifts away leaving the three cards standing"
+  },
+  {
+   "n": 13,
+   "image_mode": "new",
+   "phrase": "Three is not small.",
+   "scene": "MEDIUM: three monochrome cutout figures standing evenly spaced on the cream stage on one burnt orange band"
+  },
+  {
+   "n": 14,
+   "image_mode": "variation",
+   "phrase": "Real conversations take real work.",
+   "variation_of": 13,
+   "change_only": "the burnt orange band under the three figures thickens"
+  },
+  {
+   "n": 15,
+   "image_mode": "new",
+   "phrase": "Each needs follow up,",
+   "scene": "CLOSE-UP: one blank note on the cream stage with three short burnt orange strokes stacked on it"
+  },
+  {
+   "n": 16,
+   "image_mode": "variation",
+   "phrase": "notes, thanks, next step.",
+   "variation_of": 15,
+   "change_only": "a small burnt orange tick appears beside the stacked strokes"
+  },
+  {
+   "n": 17,
+   "image_mode": "new",
+   "phrase": "More than three, you drop things.",
+   "scene": "WIDE: eight blank cards crowded on the cream stage with two of them falling off the bottom edge"
+  },
+  {
+   "n": 18,
+   "image_mode": "variation",
+   "phrase": "Dropped threads never return.",
+   "variation_of": 17,
+   "change_only": "three more cards tip off the bottom edge of the frame"
+  },
+  {
+   "n": 19,
+   "image_mode": "new",
+   "phrase": "Then set one cadence,",
+   "scene": "MEDIUM: a monochrome hourglass on the cream stage inside a burnt orange marker circle"
+  },
+  {
+   "n": 20,
+   "image_mode": "variation",
+   "phrase": "check the set weekly.",
+   "variation_of": 19,
+   "change_only": "a burnt orange arc sweeps once around the hourglass"
+  },
+  {
+   "n": 21,
+   "image_mode": "new",
+   "phrase": "Same day, same hour.",
+   "scene": "WIDE: a row of identical monochrome marks across the cream stage with every seventh one burnt orange"
+  },
+  {
+   "n": 22,
+   "image_mode": "variation",
+   "phrase": "Not on a whim.",
+   "variation_of": 21,
+   "change_only": "every orange mark in the row thickens at once"
+  },
+  {
+   "n": 23,
+   "image_mode": "new",
+   "phrase": "Feelings schedule nothing well.",
+   "scene": "MEDIUM: a monochrome cutout figure on the cream stage with a wavering burnt orange line above them"
+  },
+  {
+   "n": 24,
+   "image_mode": "variation",
+   "phrase": "That day, three questions.",
+   "variation_of": 23,
+   "change_only": "the wavering line above the figure straightens out"
+  },
+  {
+   "n": 25,
+   "image_mode": "new",
+   "phrase": "Who owes me a reply?",
+   "scene": "CLOSE-UP: one blank card on the cream stage with a burnt orange arrow pointing back toward the viewer"
+  },
+  {
+   "n": 26,
+   "image_mode": "variation",
+   "phrase": "What did I promise?",
+   "variation_of": 25,
+   "change_only": "the arrow on the card turns to point outward instead"
+  },
+  {
+   "n": 27,
+   "image_mode": "new",
+   "phrase": "Who went quiet for weeks?",
+   "scene": "MEDIUM: a blank monochrome card on the cream stage faded to pale grey, a thin burnt orange line trailing off it"
+  },
+  {
+   "n": 28,
+   "image_mode": "variation",
+   "phrase": "Two quiet weeks, closed.",
+   "variation_of": 27,
+   "change_only": "the pale grey card slides toward the edge of the stage"
+  },
+  {
+   "n": 29,
+   "image_mode": "new",
+   "phrase": "Close it without resentment,",
+   "scene": "MEDIUM: the oversized monochrome hand lifting one pale grey card clear off the cream stage"
+  },
+  {
+   "n": 30,
+   "image_mode": "variation",
+   "phrase": "they were never answering.",
+   "variation_of": 29,
+   "change_only": "the lifted card fades out of the frame entirely"
+  },
+  {
+   "n": 31,
+   "image_mode": "new",
+   "phrase": "Then refill the slot.",
+   "scene": "MEDIUM: an empty gap in a row of three cards on the cream stage, a burnt orange bracket marking the gap"
+  },
+  {
+   "n": 32,
+   "image_mode": "variation",
+   "phrase": "One out, one in.",
+   "variation_of": 31,
+   "change_only": "a fresh blank card drops into the empty gap"
+  },
+  {
+   "n": 33,
+   "image_mode": "new",
+   "phrase": "That is the discipline.",
+   "scene": "CLOSE-UP: a single burnt orange loop stroke drawn closed on bare cream paper"
+  },
+  {
+   "n": 34,
+   "image_mode": "variation",
+   "phrase": "The set never runs empty,",
+   "variation_of": 33,
+   "change_only": "the orange loop thickens into a solid ring"
+  },
+  {
+   "n": 35,
+   "image_mode": "new",
+   "phrase": "so the search never stalls.",
+   "scene": "WIDE: a steady unbroken burnt orange line running the full width of the cream stage"
+  },
+  {
+   "n": 36,
+   "image_mode": "variation",
+   "phrase": "Most people do the opposite,",
+   "variation_of": 35,
+   "change_only": "the steady orange line extends past both edges"
+  },
+  {
+   "n": 37,
+   "image_mode": "new",
+   "phrase": "everything sent in week one,",
+   "scene": "FULL-SPREAD: a huge scatter of blank monochrome cards thrown across the cream stage all at once"
+  },
+  {
+   "n": 38,
+   "image_mode": "variation",
+   "phrase": "then waiting, then quitting.",
+   "variation_of": 37,
+   "change_only": "the scattered cards settle into a flat grey drift"
+  },
+  {
+   "n": 39,
+   "image_mode": "new",
+   "phrase": "A search is not a sprint,",
+   "scene": "MEDIUM: a monochrome cutout figure at the head of a neat queue of blank cards on the cream stage"
+  },
+  {
+   "n": 40,
+   "image_mode": "variation",
+   "phrase": "it is a queue you refill.",
+   "variation_of": 39,
+   "change_only": "the queue behind the figure lengthens and straightens"
+  }
+ ]
+}

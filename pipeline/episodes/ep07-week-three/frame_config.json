@@ -1,0 +1,187 @@
+{
+  "assets": {
+    "style_key": "2aafdb1d-7e9d-4fbd-8f1d-7a623ae64ee9",
+    "character": "0f8a8c2b-02e6-41ac-85ca-1830f7511700",
+    "form": "0daed658-abeb-4df3-bfa1-3ffe970b9344",
+    "grid": "95274b84-9e10-4966-84e8-fb5d912c14f9",
+    "hand": "c4f9cab5-dd4c-49ed-b9fd-7227ca986ee3",
+    "hourglass": "16e94bc6-9ece-4f6e-8bef-1630c1955f6b",
+    "stage": "5a140cec-03e4-4f51-a646-fa728429beee"
+  },
+  "beat_assets": {
+    "1": [
+      "stage"
+    ],
+    "2": [
+      "stage"
+    ],
+    "3": [
+      "stage",
+      "grid",
+      "form"
+    ],
+    "4": [
+      "stage",
+      "grid",
+      "form"
+    ],
+    "5": [
+      "stage",
+      "character"
+    ],
+    "6": [
+      "stage",
+      "character"
+    ],
+    "7": [
+      "stage",
+      "grid",
+      "form"
+    ],
+    "8": [
+      "stage",
+      "grid",
+      "form"
+    ],
+    "9": [
+      "stage",
+      "form",
+      "grid"
+    ],
+    "10": [
+      "stage",
+      "form",
+      "grid"
+    ],
+    "11": [
+      "stage",
+      "hand",
+      "form"
+    ],
+    "12": [
+      "stage",
+      "hand",
+      "form"
+    ],
+    "13": [
+      "stage",
+      "character"
+    ],
+    "14": [
+      "stage",
+      "character"
+    ],
+    "15": [
+      "stage",
+      "form"
+    ],
+    "16": [
+      "stage",
+      "form"
+    ],
+    "17": [
+      "stage",
+      "grid",
+      "form"
+    ],
+    "18": [
+      "stage",
+      "grid",
+      "form"
+    ],
+    "19": [
+      "stage",
+      "hourglass"
+    ],
+    "20": [
+      "stage",
+      "hourglass"
+    ],
+    "21": [
+      "stage",
+      "grid"
+    ],
+    "22": [
+      "stage",
+      "grid"
+    ],
+    "23": [
+      "stage",
+      "character"
+    ],
+    "24": [
+      "stage",
+      "character"
+    ],
+    "25": [
+      "stage",
+      "form"
+    ],
+    "26": [
+      "stage",
+      "form"
+    ],
+    "27": [
+      "stage",
+      "form"
+    ],
+    "28": [
+      "stage",
+      "form"
+    ],
+    "29": [
+      "stage",
+      "hand",
+      "form"
+    ],
+    "30": [
+      "stage",
+      "hand",
+      "form"
+    ],
+    "31": [
+      "stage",
+      "form",
+      "grid"
+    ],
+    "32": [
+      "stage",
+      "form",
+      "grid"
+    ],
+    "33": [
+      "stage"
+    ],
+    "34": [
+      "stage"
+    ],
+    "35": [
+      "stage"
+    ],
+    "36": [
+      "stage"
+    ],
+    "37": [
+      "stage",
+      "grid",
+      "form"
+    ],
+    "38": [
+      "stage",
+      "grid",
+      "form"
+    ],
+    "39": [
+      "stage",
+      "character",
+      "form"
+    ],
+    "40": [
+      "stage",
+      "character",
+      "form"
+    ]
+  },
+  "var_scenes": {},
+  "extras": {}
+}

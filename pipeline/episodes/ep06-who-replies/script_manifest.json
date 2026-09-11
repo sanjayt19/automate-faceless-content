@@ -1,0 +1,270 @@
+{
+ "genre": "education",
+ "animation_mode": "scene_based",
+ "title": "Twenty Messages, Zero Replies",
+ "book": "The 2-Hour Job Search",
+ "author": "Steve Dalton",
+ "accent": "burnt orange",
+ "hook": "Twenty messages, zero replies.",
+ "beats": [
+  {
+   "n": 1,
+   "image_mode": "new",
+   "phrase": "Twenty messages, zero replies.",
+   "scene": "FULL-SPREAD: a dense grid of identical pale grey paper notes filling the cream stage under one enormous burnt orange cross stroke"
+  },
+  {
+   "n": 2,
+   "image_mode": "variation",
+   "phrase": "Stop rewriting your resume,",
+   "variation_of": 1,
+   "change_only": "the grey notes slide away leaving one bare note"
+  },
+  {
+   "n": 3,
+   "image_mode": "new",
+   "phrase": "the resume was never read.",
+   "scene": "MEDIUM: a single blank monochrome paper note lying face down on the cream stage, a burnt orange stroke beneath it"
+  },
+  {
+   "n": 4,
+   "image_mode": "variation",
+   "phrase": "Dalton sorted people into three,",
+   "variation_of": 3,
+   "change_only": "three small burnt orange discs appear across the stage"
+  },
+  {
+   "n": 5,
+   "image_mode": "new",
+   "phrase": "boosters, obligates and curmudgeons.",
+   "scene": "WIDE: three monochrome cutout figures standing apart on the cream stage, each on its own small burnt orange disc"
+  },
+  {
+   "n": 6,
+   "image_mode": "variation",
+   "phrase": "A booster answers within days,",
+   "variation_of": 5,
+   "change_only": "a burnt orange arc opens outward from the first figure"
+  },
+  {
+   "n": 7,
+   "image_mode": "new",
+   "phrase": "warm, specific, genuinely glad.",
+   "scene": "CLOSE-UP: one monochrome cutout figure on the cream stage with a wide burnt orange arc opening outward from them"
+  },
+  {
+   "n": 8,
+   "image_mode": "new",
+   "phrase": "They open doors unasked.",
+   "scene": "MEDIUM: a monochrome door cutout standing wide open on the cream stage with a burnt orange arrow passing through it"
+  },
+  {
+   "n": 9,
+   "image_mode": "variation",
+   "phrase": "An obligate answers eventually,",
+   "variation_of": 8,
+   "change_only": "the figure turns slightly away and the orange stroke thins"
+  },
+  {
+   "n": 10,
+   "image_mode": "new",
+   "phrase": "polite, brief, slightly cornered.",
+   "scene": "CLOSE-UP: a monochrome cutout figure turned half away on the cream stage, a thin burnt orange line beside them"
+  },
+  {
+   "n": 11,
+   "image_mode": "variation",
+   "phrase": "They give facts, not advocacy.",
+   "variation_of": 10,
+   "change_only": "a small stack of blank cards appears at the base of the figure"
+  },
+  {
+   "n": 12,
+   "image_mode": "new",
+   "phrase": "A curmudgeon never answers.",
+   "scene": "MEDIUM: a monochrome cutout figure facing fully away on the cream stage with bare cream paper in front of them"
+  },
+  {
+   "n": 13,
+   "image_mode": "variation",
+   "phrase": "Not rude, just busy.",
+   "variation_of": 12,
+   "change_only": "the bare cream paper in front of the figure widens"
+  },
+  {
+   "n": 14,
+   "image_mode": "new",
+   "phrase": "Here is the problem,",
+   "scene": "CLOSE-UP: the oversized monochrome hand hovering over three identical blank cards on the cream stage"
+  },
+  {
+   "n": 15,
+   "image_mode": "variation",
+   "phrase": "you cannot tell in advance.",
+   "variation_of": 14,
+   "change_only": "the hovering hand lifts away from the cards entirely"
+  },
+  {
+   "n": 16,
+   "image_mode": "new",
+   "phrase": "Seniority predicts nothing here,",
+   "scene": "MEDIUM: a tall monochrome column cutout on the cream stage with a burnt orange cross stroke drawn over it"
+  },
+  {
+   "n": 17,
+   "image_mode": "variation",
+   "phrase": "nor a shared school.",
+   "variation_of": 16,
+   "change_only": "a second monochrome column rises beside the first"
+  },
+  {
+   "n": 18,
+   "image_mode": "new",
+   "phrase": "Warmth is a trait,",
+   "scene": "CLOSE-UP: one monochrome cutout figure with a warm burnt orange halo stroke drawn tight around them"
+  },
+  {
+   "n": 19,
+   "image_mode": "variation",
+   "phrase": "not a status earned.",
+   "variation_of": 18,
+   "change_only": "the halo stroke around the figure thickens"
+  },
+  {
+   "n": 20,
+   "image_mode": "new",
+   "phrase": "You cannot pick boosters,",
+   "scene": "WIDE: three identical monochrome cutout figures standing on the cream stage, none of them marked orange"
+  },
+  {
+   "n": 21,
+   "image_mode": "variation",
+   "phrase": "you can only find them.",
+   "variation_of": 20,
+   "change_only": "a burnt orange marker circle draws around the middle figure"
+  },
+  {
+   "n": 22,
+   "image_mode": "new",
+   "phrase": "That changes everything downstream.",
+   "scene": "MEDIUM: a burnt orange arrow on the cream stage bending away from a row of notes toward a group of figures"
+  },
+  {
+   "n": 23,
+   "image_mode": "variation",
+   "phrase": "Contact several people at once,",
+   "variation_of": 22,
+   "change_only": "three burnt orange arrows leave the row at once"
+  },
+  {
+   "n": 24,
+   "image_mode": "new",
+   "phrase": "let the replies sort them.",
+   "scene": "WIDE: three monochrome cutout figures on the cream stage with one burnt orange stroke landing on the middle one"
+  },
+  {
+   "n": 25,
+   "image_mode": "variation",
+   "phrase": "Warmest answer gets your time.",
+   "variation_of": 24,
+   "change_only": "the orange stroke on the middle figure thickens"
+  },
+  {
+   "n": 26,
+   "image_mode": "new",
+   "phrase": "Everyone else, one follow up.",
+   "scene": "MEDIUM: a single blank note on the cream stage with one short burnt orange tick above it"
+  },
+  {
+   "n": 27,
+   "image_mode": "variation",
+   "phrase": "Then let them go.",
+   "variation_of": 26,
+   "change_only": "the orange tick above the note fades to pale grey"
+  },
+  {
+   "n": 28,
+   "image_mode": "new",
+   "phrase": "Chasing curmudgeons is the trap,",
+   "scene": "MEDIUM: a monochrome cutout figure reaching toward a facing-away figure across bare cream paper"
+  },
+  {
+   "n": 29,
+   "image_mode": "variation",
+   "phrase": "it feels like effort.",
+   "variation_of": 28,
+   "change_only": "the reaching arm stretches further across the empty paper"
+  },
+  {
+   "n": 30,
+   "image_mode": "new",
+   "phrase": "It is dressed up waiting.",
+   "scene": "CLOSE-UP: a monochrome hourglass standing still on the cream stage with no orange sand moving in it"
+  },
+  {
+   "n": 31,
+   "image_mode": "variation",
+   "phrase": "Most contacts are curmudgeons,",
+   "variation_of": 30,
+   "change_only": "a burnt orange cross stroke draws over the still hourglass"
+  },
+  {
+   "n": 32,
+   "image_mode": "new",
+   "phrase": "that is normal, not personal.",
+   "scene": "WIDE: a long row of monochrome cutout figures on the cream stage, only two of them edged burnt orange"
+  },
+  {
+   "n": 33,
+   "image_mode": "variation",
+   "phrase": "You need very few.",
+   "variation_of": 32,
+   "change_only": "the two orange edged figures grow larger than the rest"
+  },
+  {
+   "n": 34,
+   "image_mode": "new",
+   "phrase": "Two or three carry it.",
+   "scene": "MEDIUM: two monochrome cutout figures close together on the cream stage on one large burnt orange disc"
+  },
+  {
+   "n": 35,
+   "image_mode": "variation",
+   "phrase": "And boosters compound quickly,",
+   "variation_of": 34,
+   "change_only": "the burnt orange disc under the two figures grows wider"
+  },
+  {
+   "n": 36,
+   "image_mode": "new",
+   "phrase": "they hand you more boosters.",
+   "scene": "FULL-SPREAD: two burnt orange edged figures on the cream stage with strokes branching out to four more figures"
+  },
+  {
+   "n": 37,
+   "image_mode": "variation",
+   "phrase": "Volume is not the point,",
+   "variation_of": 36,
+   "change_only": "the branching strokes double and reach further out"
+  },
+  {
+   "n": 38,
+   "image_mode": "new",
+   "phrase": "sorting speed is the point.",
+   "scene": "MEDIUM: a monochrome hourglass on the cream stage with burnt orange sand running fast and a sweep arrow beside it"
+  },
+  {
+   "n": 39,
+   "image_mode": "variation",
+   "phrase": "Send a few, sort fast,",
+   "variation_of": 38,
+   "change_only": "the sweep arrow beside the hourglass lengthens sharply"
+  },
+  {
+   "n": 40,
+   "image_mode": "new",
+   "phrase": "spend time on whoever answers.",
+   "scene": "FULL-SPREAD: one monochrome cutout figure seated with another on a large burnt orange disc, bare cream paper elsewhere"
+  }
+ ]
+}
