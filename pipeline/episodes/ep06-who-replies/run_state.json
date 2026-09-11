@@ -1,12 +1,24 @@
 {
   "episode": "ep06-who-replies",
   "title": "Twenty Messages, Zero Replies",
-  "status": "frames_pending",
+  "status": "frames_in_progress",
   "narration_seconds": 86.98,
   "beats": 40,
   "frames": 81,
   "alignment_similarity": 0.9636,
   "narration_mp3": "https://d8j0ntlcm91z4.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/hf_20260911_124053_969a2d8b-1b6f-408f-86ea-2ffb922568f8.mp3",
   "new_assets": {},
-  "frame_jobs": {}
+  "frame_jobs": {
+    "1": "5bb5a4a3-55bc-48ab-9709-edcce9c33242",
+    "4": "1c12a01e-68c3-4d9c-92df-9d7ab9277cd4",
+    "5": "77483c7e-f39d-430e-9db3-45b27dc5b947",
+    "8": "9a461796-da4e-4c93-b41d-e93cbea9c41b",
+    "12": "b053d96f-f552-4526-8320-b8542df054dc",
+    "13": "45567a94-4293-4af2-9424-05337829a56b",
+    "16": "e25b69cb-8a25-4938-baf4-e7170f471b41",
+    "19": "4e9eb1b6-6d9c-4257-8ffd-e007b022d884",
+    "20": "687c5b9f-5cb8-4ea7-bcdf-fab074c659ea",
+    "23": "429d06b1-57e9-444f-8f0b-48a859d84531"
+  },
+  "remaining": "71 of 81 frames still to generate: new frames 9,24,27,28,31,32,35,36,39,40,43,44,47,48,51,52,55,56,59,60,63,64,67,68,71,72,75,76,79,80 then 41 edits per frame_prompts.json waves 1 and 2"
 }
