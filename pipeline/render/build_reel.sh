@@ -60,7 +60,7 @@ bash "$SUBS/fetch_fonts.sh" >/dev/null 2>&1 || true
 python3 "$SUBS/audio_to_captions.py" narration.wav --srt out/caps.srt --language en
 python3 "$SUBS/subtitle_paper_burn.py" --in out/clean.mp4 --srt out/caps.srt \
   --out out/final.mp4 --style bold --font-key tiktok \
-  --bottom-frac 0.30 --maxw-frac 0.72 --no-outline
+  --bottom-frac 0.30 --maxw-frac 0.72
 
 ffprobe -v error -show_entries stream=codec_type,duration -of csv=p=0 out/final.mp4
 ls -la out/final.mp4
