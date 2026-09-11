@@ -20,7 +20,12 @@ locked_assets:
   caption_style: bold          # burned, tiktok face, black outline
   caption_bottom_frac: 0.30    # clears TikTok, Reels and Shorts bottom overlays
   caption_maxw_frac: 0.72      # clears the right-hand action rail
-  accent_color: deep pine green  # replaced burnt orange after episode 8
+  palette: bold_contrast       # supplied by the channel owner, locked, no substitutions
+  palette_hex:
+    red:    "#E63946"          # the one thing each reel is about
+    paper:  "#F1FAEE"          # ground, and always the ground behind captions
+    navy:   "#1D3557"          # all type, rules and marks
+    sky:    "#A8DADC"          # supporting fills and secondary shapes
   render_resolution: 1.5k      # episode 1 rendered at 1k and needed an upscale to 1080x1920
 
 rights:
