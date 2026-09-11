@@ -248,7 +248,7 @@
   "beat": 12,
   "mode": "variation",
   "parent": 24,
-  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the bare cream paper in front of the figure widens. Do not redraw or re-stage anything else.",
+  "prompt": "Take the reference image and keep it EXACTLY: same composition, same crop, same camera, same character, same colors, same background, same style. Change ONLY: the paper shadow under the figure lengthens across the stage. Do not redraw or re-stage anything else.",
   "wave": 1
  },
  {
