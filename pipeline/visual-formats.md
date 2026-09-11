@@ -1,11 +1,12 @@
 # Visual format options
 
-Eight candidate looks for the next batch, rendered as 9:16 stills at 1.5k with
+Twelve candidate looks for the next batch, rendered as 9:16 stills at 1.5k with
 the same test caption burned in so the formats compare like for like. The test
 line is the episode 6 hook.
 
-Format A is the look the first seven episodes shipped in. The other seven are
-untested.
+Format A is the look the first seven episodes shipped in. Everything else is
+untested. I to L are the bold, high-contrast set; I is the Apple advertisement
+reference.
 
 All were generated with `seedream_v5_pro`, no reference assets, so each one is
 a clean read of the style rather than a variation on the existing roster.
@@ -20,6 +21,10 @@ a clean read of the style rather than a variation on the existing roster.
 | F | Dark interface, the system's side | https://d8j0ntlcm91z4.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/hf_20260911_162430_18be7262-84e9-4a2c-a392-4d67f3aca099.png |
 | G | Newsprint halftone, one spot colour | https://d8j0ntlcm91z4.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/hf_20260911_162431_fa55b210-d5c4-494f-9e80-c9a6897b6313.png |
 | H | Tactile top-down still life | https://d8j0ntlcm91z4.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/hf_20260911_162431_375a63a4-4839-4f41-b91f-511c3bedb5ee.png |
+| I | Apple advertisement, white void | https://d8j0ntlcm91z4.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/hf_20260911_191130_c868b73a-ca91-45df-914b-62ebac1884db.png |
+| J | Swiss poster, type as image | https://d8j0ntlcm91z4.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/hf_20260911_191130_8362f750-14a1-4822-a3fc-6da1f03058be.png |
+| K | Black studio, hard raking light | https://d8j0ntlcm91z4.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/hf_20260911_191131_12fe44c5-d155-4525-be4f-c4c416215021.png |
+| L | Sculptural monolith, brutalist scale | https://d8j0ntlcm91z4.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/hf_20260911_191130_e20a0bc4-72a8-4ae7-be75-004a22c54e11.png |
 
 ## What each one is for
 
@@ -61,14 +66,42 @@ loud enough to compete with the message, and it dates fast.
 Weakness: a narrow vocabulary. There are only so many ways to photograph paper,
 and by episode four it repeats.
 
+## The bold set
+
+**I. Apple advertisement.** Seamless white void, one object floating in perfect
+studio light, enormous negative space. The most premium-reading of the twelve
+and the easiest to keep consistent, because a white void has nothing in it to
+drift. It also buys credibility the content has to then earn. Weakness: it is
+the look of a company selling you something, which is the opposite of the
+channel's posture. Use it and the writing has to work harder to sound honest.
+
+**J. Swiss poster.** Type and flat colour are the whole image. The loudest
+scroll-stopper here and the cheapest to produce, since nothing has to be
+rendered consistently. Weakness: it stacks type on the burned captions, and
+with 80 frames per episode you will run out of typographic ideas before you run
+out of frames.
+
+**K. Black studio, hard light.** One raking key light against a void. The most
+cinematic of the twelve, and the black ground makes white captions read
+perfectly. Weakness: relentless. Eighty seconds of deep shadow is heavy, and it
+has no register for anything hopeful, so it suits the diagnosis half of a script
+but not the procedure half.
+
+**L. Sculptural monolith.** A single machined object at architectural scale in
+an empty concrete space. Bold without being loud, and it gives the abstract
+ideas real physical weight. Weakness: the most expensive to keep coherent,
+because each new idea needs a new object rendered in the same material and
+light, which is exactly the cost the asset roster was built to avoid.
+
 ## How to choose
 
 Pick two, not one. Run the next batch as a paired test: the same script treated
 in two formats, posted a week apart on different platforms, and compare
 completion rate. That is the only measurement that settles it.
 
-If the next arc is hiring-side material, F is the obvious pair to A. If it
-stays on the seeker's own behaviour, B or E.
+If the next arc is hiring-side material, F or K is the obvious pair to A. If it
+stays on the seeker's own behaviour, B or E. If the goal is to look unlike every
+other job-advice account on the feed, I or L.
 
 Whatever is chosen, the production constraints do not move. Still 70 to 81
 frames per episode, still a 1.5 second hold ceiling, still 90 seconds. The
