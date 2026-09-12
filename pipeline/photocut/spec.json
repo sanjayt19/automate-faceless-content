@@ -3,31 +3,139 @@
     "title": "You Might Not Need A New Job",
     "hook": "You don't need a new job. You need a Saturday.",
     "beats": [
-      {"t": "You don't need a new job.", "em": "don't", "s": "laptop@0"},
-      {"t": "You need a Saturday.", "em": "Saturday", "s": "bench@0"},
-      {"t": "Job hunting is rejection on a schedule.", "em": "rejection", "s": "phone@0"},
-      {"t": "So you feel flat.", "em": "flat", "s": "awake@0"},
-      {"t": "And you blame the work.", "em": "blame", "s": "laptop@1"},
-      {"t": "Wrong.", "em": "", "s": "!red:WRONG"},
-      {"t": "Score four things out of ten.", "em": "four", "s": "#gauge:0"},
-      {"t": "Health. Work. Play. Love.", "em": "", "s": "#gauge:1"},
-      {"t": "Work is low. You knew that.", "em": "knew", "s": "#gauge:2"},
-      {"t": "But play is at zero.", "em": "zero", "s": "#gauge:3"},
-      {"t": "You didn't notice.", "em": "notice", "s": "awake@1"},
-      {"t": "Every hour became search time.", "em": "Every hour", "s": "calendar@0"},
-      {"t": "Weekends became guilt.", "em": "guilt", "s": "bench@1"},
-      {"t": "Fun got postponed until the offer.", "em": "postponed", "s": "guitar@0"},
-      {"t": "The offer never came.", "em": "never", "s": "friends@0"},
-      {"t": "Here's what it costs you.", "em": "costs", "s": "phone@1"},
-      {"t": "Empty people interview badly.", "em": "badly", "s": "slump@0"},
-      {"t": "They sound tired, because they are.", "em": "tired", "s": "slump@1"},
-      {"t": "They take the first offer.", "em": "first", "s": "contract@0"},
-      {"t": "Even the wrong one.", "em": "wrong", "s": "contract@1"},
-      {"t": "So protect one evening this week.", "em": "one evening", "s": "walk@0"},
-      {"t": "Not a reward.", "em": "", "s": "!navy:NOT A REWARD"},
-      {"t": "A requirement.", "em": "", "s": "!red:A REQUIREMENT"},
-      {"t": "Burnt out people accept less.", "em": "accept less", "s": "close@0"},
-      {"t": "Refill the tank. Then apply.", "em": "Refill", "s": "upright@0"}
-    ]
+      {
+        "t": "You don't need a new job.",
+        "em": "don't",
+        "s": "laptop@0"
+      },
+      {
+        "t": "You need a Saturday.",
+        "em": "Saturday",
+        "s": "bench@0"
+      },
+      {
+        "t": "Job hunting is rejection on a schedule.",
+        "em": "rejection",
+        "s": "phone@0"
+      },
+      {
+        "t": "So you feel flat.",
+        "em": "flat",
+        "s": "awake@0"
+      },
+      {
+        "t": "And you blame the work.",
+        "em": "blame",
+        "s": "laptop@1"
+      },
+      {
+        "t": "Wrong.",
+        "em": "",
+        "s": "!red:WRONG"
+      },
+      {
+        "t": "Score four things out of ten.",
+        "em": "four",
+        "s": "#gauge:0"
+      },
+      {
+        "t": "Health. Work. Play. Love.",
+        "em": "",
+        "s": "#gauge:1"
+      },
+      {
+        "t": "Work is low. You knew that.",
+        "em": "knew",
+        "s": "#gauge:2"
+      },
+      {
+        "t": "But play is at zero.",
+        "em": "zero",
+        "s": "#gauge:3"
+      },
+      {
+        "t": "You didn't notice.",
+        "em": "notice",
+        "s": "awake@1"
+      },
+      {
+        "t": "Every hour became search time.",
+        "em": "Every hour",
+        "s": "calendar@0"
+      },
+      {
+        "t": "Weekends became guilt.",
+        "em": "guilt",
+        "s": "bench@1"
+      },
+      {
+        "t": "Fun got postponed until the offer.",
+        "em": "postponed",
+        "s": "guitar@0"
+      },
+      {
+        "t": "The offer never came.",
+        "em": "never",
+        "s": "friends@0"
+      },
+      {
+        "t": "Here's what it costs you.",
+        "em": "costs",
+        "s": "phone@1"
+      },
+      {
+        "t": "Empty people interview badly.",
+        "em": "badly",
+        "s": "slump@0"
+      },
+      {
+        "t": "They sound tired, because they are.",
+        "em": "tired",
+        "s": "slump@1"
+      },
+      {
+        "t": "They take the first offer.",
+        "em": "first",
+        "s": "contract@0"
+      },
+      {
+        "t": "Even the wrong one.",
+        "em": "wrong",
+        "s": "contract@1"
+      },
+      {
+        "t": "So protect one evening this week.",
+        "em": "one evening",
+        "s": "walk@0"
+      },
+      {
+        "t": "Not a reward.",
+        "em": "",
+        "s": "!navy:NOT A REWARD"
+      },
+      {
+        "t": "A requirement.",
+        "em": "",
+        "s": "!red:A REQUIREMENT"
+      },
+      {
+        "t": "Burnt out people accept less.",
+        "em": "accept less",
+        "s": "close@0"
+      },
+      {
+        "t": "Refill the tank. Then apply.",
+        "em": "Refill",
+        "s": "upright@0"
+      }
+    ],
+    "output": {
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/a51685dc-a195-4628-8c47-7b43ef21417d.mp4",
+      "media_id": "a51685dc-a195-4628-8c47-7b43ef21417d",
+      "seconds": 47.7,
+      "cuts": 35,
+      "avg_shot_sec": 1.36,
+      "replaces": "a0b7ca96-dd0e-4c15-b943-199a6f85ffb6"
+    }
   }
 }
