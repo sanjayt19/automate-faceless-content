@@ -137,5 +137,1435 @@
       "avg_shot_sec": 1.36,
       "replaces": "a0b7ca96-dd0e-4c15-b943-199a6f85ffb6"
     }
+  },
+  "passion": {
+    "title": "Follow Your Passion Is Bad Advice",
+    "beats": [
+      {
+        "t": "Follow your passion is bad advice.",
+        "em": "bad advice",
+        "s": "noise@0"
+      },
+      {
+        "t": "Here's why it keeps you stuck.",
+        "em": "stuck",
+        "s": "noise@1"
+      },
+      {
+        "t": "Most people don't have one.",
+        "em": "don't",
+        "s": "crowd@0"
+      },
+      {
+        "t": "Ask a room of students.",
+        "em": "",
+        "s": "crowd@1"
+      },
+      {
+        "t": "Most of them cannot name it.",
+        "em": "cannot name",
+        "s": "crowd@0"
+      },
+      {
+        "t": "So they wait.",
+        "em": "wait",
+        "s": "waiting@0"
+      },
+      {
+        "t": "Waiting for a feeling to arrive.",
+        "em": "feeling",
+        "s": "waiting@1"
+      },
+      {
+        "t": "That feeling does not come first.",
+        "em": "first",
+        "s": "!red:NOT FIRST"
+      },
+      {
+        "t": "It comes second.",
+        "em": "second",
+        "s": "spark@0"
+      },
+      {
+        "t": "Passion follows competence.",
+        "em": "follows",
+        "s": "practice@0"
+      },
+      {
+        "t": "You get good at something.",
+        "em": "good",
+        "s": "practice@1"
+      },
+      {
+        "t": "Then you start to like it.",
+        "em": "like",
+        "s": "glow@0"
+      },
+      {
+        "t": "Then you cannot stop.",
+        "em": "cannot stop",
+        "s": "glow@1"
+      },
+      {
+        "t": "Never the other way round.",
+        "em": "Never",
+        "s": "!navy:NEVER"
+      },
+      {
+        "t": "So stop hunting for the one.",
+        "em": "the one",
+        "s": "books@0"
+      },
+      {
+        "t": "Hunt for small interest instead.",
+        "em": "interest",
+        "s": "books@1"
+      },
+      {
+        "t": "What did you read last week?",
+        "em": "read",
+        "s": "desk@0"
+      },
+      {
+        "t": "Nobody asked you to.",
+        "em": "Nobody",
+        "s": "desk@1"
+      },
+      {
+        "t": "That is a clue.",
+        "em": "clue",
+        "s": "climb@0"
+      },
+      {
+        "t": "Clues are quiet.",
+        "em": "quiet",
+        "s": "climb@1"
+      },
+      {
+        "t": "Passion is loud and usually borrowed.",
+        "em": "borrowed",
+        "s": "noise@0"
+      },
+      {
+        "t": "Take the job that teaches you.",
+        "em": "teaches",
+        "s": "teacher@0"
+      },
+      {
+        "t": "Get good at it.",
+        "em": "Get good",
+        "s": "practice@0"
+      },
+      {
+        "t": "The feeling arrives later.",
+        "em": "later",
+        "s": "glow@0"
+      },
+      {
+        "t": "It always arrives later.",
+        "em": "always",
+        "s": "climb@1"
+      }
+    ]
+  },
+  "toolate": {
+    "title": "It Is Not Too Late",
+    "beats": [
+      {
+        "t": "You think you are too old.",
+        "em": "too old",
+        "s": "mirror@0"
+      },
+      {
+        "t": "You are not.",
+        "em": "not",
+        "s": "mirror@1"
+      },
+      {
+        "t": "You are doing the maths wrong.",
+        "em": "wrong",
+        "s": "ledger@0"
+      },
+      {
+        "t": "You are counting backwards.",
+        "em": "backwards",
+        "s": "ledger@1"
+      },
+      {
+        "t": "Years spent. Money spent. Degree spent.",
+        "em": "spent",
+        "s": "receipt@0"
+      },
+      {
+        "t": "All of it gone.",
+        "em": "gone",
+        "s": "receipt@1"
+      },
+      {
+        "t": "None of it comes back, ever.",
+        "em": "ever",
+        "s": "!red:GONE"
+      },
+      {
+        "t": "That is a sunk cost.",
+        "em": "sunk cost",
+        "s": "stairs@0"
+      },
+      {
+        "t": "It is already paid.",
+        "em": "paid",
+        "s": "stairs@1"
+      },
+      {
+        "t": "It does not get a vote.",
+        "em": "vote",
+        "s": "!navy:NO VOTE"
+      },
+      {
+        "t": "Only one question counts now.",
+        "em": "one question",
+        "s": "horizon@0"
+      },
+      {
+        "t": "Starting from today, what is best?",
+        "em": "today",
+        "s": "horizon@1"
+      },
+      {
+        "t": "Today. Not ten years ago.",
+        "em": "Today",
+        "s": "clock@0"
+      },
+      {
+        "t": "The answer changes completely.",
+        "em": "completely",
+        "s": "clock@1"
+      },
+      {
+        "t": "Because the past stops arguing.",
+        "em": "stops arguing",
+        "s": "door@0"
+      },
+      {
+        "t": "Suddenly the options open up.",
+        "em": "open up",
+        "s": "door@1"
+      },
+      {
+        "t": "You are not behind.",
+        "em": "behind",
+        "s": "road@0"
+      },
+      {
+        "t": "There is no schedule.",
+        "em": "no schedule",
+        "s": "road@1"
+      },
+      {
+        "t": "Nobody ever published one.",
+        "em": "Nobody",
+        "s": "empty@0"
+      },
+      {
+        "t": "You invented it yourself.",
+        "em": "invented",
+        "s": "empty@1"
+      },
+      {
+        "t": "People switch at thirty.",
+        "em": "thirty",
+        "s": "switch@0"
+      },
+      {
+        "t": "At forty. At fifty-five.",
+        "em": "fifty-five",
+        "s": "switch@1"
+      },
+      {
+        "t": "They are not braver than you.",
+        "em": "braver",
+        "s": "horizon@0"
+      },
+      {
+        "t": "They just stopped counting backwards.",
+        "em": "stopped",
+        "s": "ledger@0"
+      },
+      {
+        "t": "Do the maths forwards. Then apply.",
+        "em": "forwards",
+        "s": "road@1"
+      }
+    ]
+  },
+  "qualified": {
+    "title": "Apply At Sixty Percent",
+    "beats": [
+      {
+        "t": "You are reading the job ad wrong.",
+        "em": "wrong",
+        "s": "advert@0"
+      },
+      {
+        "t": "All of it, wrong.",
+        "em": "All",
+        "s": "advert@1"
+      },
+      {
+        "t": "That list is a wish list.",
+        "em": "wish list",
+        "s": "list@0"
+      },
+      {
+        "t": "It is not a checklist.",
+        "em": "not",
+        "s": "!red:NOT A TEST"
+      },
+      {
+        "t": "Somebody wrote it in fifteen minutes.",
+        "em": "fifteen minutes",
+        "s": "typing@0"
+      },
+      {
+        "t": "They copied half of it.",
+        "em": "copied",
+        "s": "typing@1"
+      },
+      {
+        "t": "Nobody hits every line.",
+        "em": "Nobody",
+        "s": "list@1"
+      },
+      {
+        "t": "Not one person.",
+        "em": "one",
+        "s": "!navy:NOT ONE"
+      },
+      {
+        "t": "The person hired will not either.",
+        "em": "not either",
+        "s": "hired@0"
+      },
+      {
+        "t": "Here is what actually happens.",
+        "em": "actually",
+        "s": "hired@1"
+      },
+      {
+        "t": "Men apply at sixty percent.",
+        "em": "sixty",
+        "s": "gap@0"
+      },
+      {
+        "t": "Women wait for one hundred.",
+        "em": "hundred",
+        "s": "gap@1"
+      },
+      {
+        "t": "Guess who gets interviewed more.",
+        "em": "more",
+        "s": "queue@0"
+      },
+      {
+        "t": "Not the better candidate.",
+        "em": "Not",
+        "s": "queue@1"
+      },
+      {
+        "t": "The one who applied.",
+        "em": "applied",
+        "s": "send@0"
+      },
+      {
+        "t": "So set your bar at sixty.",
+        "em": "sixty",
+        "s": "gap@0"
+      },
+      {
+        "t": "Six lines out of ten.",
+        "em": "Six",
+        "s": "list@0"
+      },
+      {
+        "t": "Then send it.",
+        "em": "send",
+        "s": "send@1"
+      },
+      {
+        "t": "You are not lying to anyone.",
+        "em": "lying",
+        "s": "hired@0"
+      },
+      {
+        "t": "You are letting them decide.",
+        "em": "them",
+        "s": "desk@0"
+      },
+      {
+        "t": "That is their job, not yours.",
+        "em": "their job",
+        "s": "desk@1"
+      },
+      {
+        "t": "Stop rejecting yourself in advance.",
+        "em": "rejecting yourself",
+        "s": "mirror@0"
+      },
+      {
+        "t": "They can only say no.",
+        "em": "only",
+        "s": "mirror@1"
+      },
+      {
+        "t": "You have been saying it for them.",
+        "em": "for them",
+        "s": "queue@0"
+      },
+      {
+        "t": "Stop doing their work.",
+        "em": "Stop",
+        "s": "send@0"
+      }
+    ]
+  },
+  "goodatit": {
+    "title": "Being Good At It Is The Trap",
+    "beats": [
+      {
+        "t": "Being good at your job is a trap.",
+        "em": "trap",
+        "s": "cage@0"
+      },
+      {
+        "t": "It is not.",
+        "em": "not",
+        "s": "cage@1"
+      },
+      {
+        "t": "Here is how it closes.",
+        "em": "closes",
+        "s": "hinge@0"
+      },
+      {
+        "t": "You get good at something.",
+        "em": "good",
+        "s": "hands@0"
+      },
+      {
+        "t": "People notice.",
+        "em": "notice",
+        "s": "hands@1"
+      },
+      {
+        "t": "They give you more.",
+        "em": "more",
+        "s": "stack@0"
+      },
+      {
+        "t": "You get better.",
+        "em": "better",
+        "s": "stack@1"
+      },
+      {
+        "t": "They pay you for it.",
+        "em": "pay",
+        "s": "cheque@0"
+      },
+      {
+        "t": "Now it is your identity.",
+        "em": "identity",
+        "s": "badge@0"
+      },
+      {
+        "t": "Now it is your salary.",
+        "em": "salary",
+        "s": "cheque@1"
+      },
+      {
+        "t": "Now it is your CV.",
+        "em": "CV",
+        "s": "badge@1"
+      },
+      {
+        "t": "And you are bored.",
+        "em": "bored",
+        "s": "window@0"
+      },
+      {
+        "t": "But leaving feels like waste.",
+        "em": "waste",
+        "s": "window@1"
+      },
+      {
+        "t": "All that skill, thrown away.",
+        "em": "thrown away",
+        "s": "!red:WASTE"
+      },
+      {
+        "t": "That is the trap talking.",
+        "em": "trap talking",
+        "s": "hinge@1"
+      },
+      {
+        "t": "Skill is not the job title.",
+        "em": "not",
+        "s": "!navy:NOT THE TITLE"
+      },
+      {
+        "t": "Ask a different question.",
+        "em": "different",
+        "s": "fork@0"
+      },
+      {
+        "t": "Not what am I good at.",
+        "em": "Not",
+        "s": "hands@0"
+      },
+      {
+        "t": "What would I happily do again?",
+        "em": "again",
+        "s": "fork@1"
+      },
+      {
+        "t": "Different question. Different answer.",
+        "em": "Different",
+        "s": "door@0"
+      },
+      {
+        "t": "Competence is not consent.",
+        "em": "consent",
+        "s": "cage@0"
+      },
+      {
+        "t": "You never agreed to forever.",
+        "em": "never agreed",
+        "s": "window@0"
+      },
+      {
+        "t": "You just kept saying yes.",
+        "em": "yes",
+        "s": "stack@0"
+      },
+      {
+        "t": "Being good at it proves nothing.",
+        "em": "nothing",
+        "s": "badge@0"
+      },
+      {
+        "t": "Except that you are good.",
+        "em": "Except",
+        "s": "door@1"
+      }
+    ]
+  },
+  "wrongproblem": {
+    "title": "You Are Solving The Wrong Problem",
+    "beats": [
+      {
+        "t": "You are solving the wrong problem.",
+        "em": "wrong problem",
+        "s": "maze@0"
+      },
+      {
+        "t": "For months now.",
+        "em": "months",
+        "s": "maze@1"
+      },
+      {
+        "t": "Watch this happen.",
+        "em": "Watch",
+        "s": "board@0"
+      },
+      {
+        "t": "I need a job that pays more.",
+        "em": "pays more",
+        "s": "board@1"
+      },
+      {
+        "t": "That is not a problem.",
+        "em": "not",
+        "s": "!red:NOT A PROBLEM"
+      },
+      {
+        "t": "That is a wish with a number.",
+        "em": "wish",
+        "s": "wish@0"
+      },
+      {
+        "t": "Problems have edges.",
+        "em": "edges",
+        "s": "edge@0"
+      },
+      {
+        "t": "Try this version instead.",
+        "em": "instead",
+        "s": "edge@1"
+      },
+      {
+        "t": "My rent went up two hundred.",
+        "em": "two hundred",
+        "s": "rent@0"
+      },
+      {
+        "t": "My salary did not.",
+        "em": "did not",
+        "s": "rent@1"
+      },
+      {
+        "t": "Now it has edges.",
+        "em": "edges",
+        "s": "edge@0"
+      },
+      {
+        "t": "Now it has options.",
+        "em": "options",
+        "s": "doors@0"
+      },
+      {
+        "t": "Ask for a raise.",
+        "em": "raise",
+        "s": "doors@1"
+      },
+      {
+        "t": "Move somewhere cheaper.",
+        "em": "Move",
+        "s": "boxes@0"
+      },
+      {
+        "t": "Take a second income.",
+        "em": "second",
+        "s": "night@0"
+      },
+      {
+        "t": "Or change jobs.",
+        "em": "change",
+        "s": "doors@0"
+      },
+      {
+        "t": "Four doors. One was invisible before.",
+        "em": "invisible",
+        "s": "doors@1"
+      },
+      {
+        "t": "Here is the tell.",
+        "em": "tell",
+        "s": "board@0"
+      },
+      {
+        "t": "If a problem has one solution,",
+        "em": "one",
+        "s": "maze@0"
+      },
+      {
+        "t": "it is not a problem.",
+        "em": "not",
+        "s": "!navy:NOT A PROBLEM"
+      },
+      {
+        "t": "It is a decision already made.",
+        "em": "already made",
+        "s": "wish@1"
+      },
+      {
+        "t": "And you are arguing with yourself.",
+        "em": "yourself",
+        "s": "night@1"
+      },
+      {
+        "t": "Write down what is actually wrong.",
+        "em": "actually",
+        "s": "board@1"
+      },
+      {
+        "t": "One sentence, with a number in it.",
+        "em": "a number",
+        "s": "rent@0"
+      },
+      {
+        "t": "The answers show up uninvited.",
+        "em": "uninvited",
+        "s": "boxes@1"
+      }
+    ]
+  },
+  "story": {
+    "title": "Stop Asking For A Job",
+    "beats": [
+      {
+        "t": "Stop asking people for a job.",
+        "em": "Stop",
+        "s": "message@0"
+      },
+      {
+        "t": "It is why nobody replies.",
+        "em": "nobody replies",
+        "s": "message@1"
+      },
+      {
+        "t": "Think about what you are doing.",
+        "em": "Think",
+        "s": "phone@0"
+      },
+      {
+        "t": "You message a stranger.",
+        "em": "stranger",
+        "s": "phone@1"
+      },
+      {
+        "t": "You ask for something scarce.",
+        "em": "scarce",
+        "s": "vault@0"
+      },
+      {
+        "t": "Something they probably cannot give.",
+        "em": "cannot give",
+        "s": "vault@1"
+      },
+      {
+        "t": "So they feel bad.",
+        "em": "feel bad",
+        "s": "wince@0"
+      },
+      {
+        "t": "So they ignore you.",
+        "em": "ignore",
+        "s": "wince@1"
+      },
+      {
+        "t": "That is not rudeness.",
+        "em": "not",
+        "s": "!navy:NOT RUDENESS"
+      },
+      {
+        "t": "That is discomfort.",
+        "em": "discomfort",
+        "s": "wince@0"
+      },
+      {
+        "t": "Now change one word.",
+        "em": "one word",
+        "s": "coffee@0"
+      },
+      {
+        "t": "Ask them for their story.",
+        "em": "story",
+        "s": "coffee@1"
+      },
+      {
+        "t": "How did you end up there?",
+        "em": "How",
+        "s": "listen@0"
+      },
+      {
+        "t": "Suddenly they are the expert.",
+        "em": "expert",
+        "s": "listen@1"
+      },
+      {
+        "t": "People love that question.",
+        "em": "love",
+        "s": "talk@0"
+      },
+      {
+        "t": "They answer it for an hour.",
+        "em": "an hour",
+        "s": "talk@1"
+      },
+      {
+        "t": "And at the very end,",
+        "em": "",
+        "s": "clockface@0"
+      },
+      {
+        "t": "they ask about you.",
+        "em": "about you",
+        "s": "coffee@0"
+      },
+      {
+        "t": "Almost every time.",
+        "em": "every time",
+        "s": "!red:EVERY TIME"
+      },
+      {
+        "t": "That is when the job appears.",
+        "em": "appears",
+        "s": "door@0"
+      },
+      {
+        "t": "Not because you asked.",
+        "em": "Not",
+        "s": "message@0"
+      },
+      {
+        "t": "Because you did not.",
+        "em": "did not",
+        "s": "door@1"
+      },
+      {
+        "t": "Twenty conversations. No requests.",
+        "em": "No requests",
+        "s": "talk@0"
+      },
+      {
+        "t": "Watch what happens.",
+        "em": "Watch",
+        "s": "listen@0"
+      },
+      {
+        "t": "Curiosity opens what asking slams.",
+        "em": "Curiosity",
+        "s": "door@0"
+      }
+    ]
+  },
+  "gravity": {
+    "title": "Some Of Your Problems Are Gravity",
+    "beats": [
+      {
+        "t": "Some of your problems are gravity.",
+        "em": "gravity",
+        "s": "fall@0"
+      },
+      {
+        "t": "You cannot fix gravity.",
+        "em": "cannot",
+        "s": "fall@1"
+      },
+      {
+        "t": "You can only work with it.",
+        "em": "work with",
+        "s": "sail@0"
+      },
+      {
+        "t": "Here is the test.",
+        "em": "test",
+        "s": "scale@0"
+      },
+      {
+        "t": "Can you act on it today?",
+        "em": "today",
+        "s": "scale@1"
+      },
+      {
+        "t": "If no, it is gravity.",
+        "em": "gravity",
+        "s": "!navy:GRAVITY"
+      },
+      {
+        "t": "Poets do not earn much.",
+        "em": "much",
+        "s": "poet@0"
+      },
+      {
+        "t": "Gravity.",
+        "em": "Gravity",
+        "s": "stone@0"
+      },
+      {
+        "t": "That industry pays badly.",
+        "em": "badly",
+        "s": "factory@0"
+      },
+      {
+        "t": "Gravity.",
+        "em": "Gravity",
+        "s": "stone@1"
+      },
+      {
+        "t": "You graduated in a bad year.",
+        "em": "bad year",
+        "s": "grad@0"
+      },
+      {
+        "t": "Gravity.",
+        "em": "Gravity",
+        "s": "!red:GRAVITY"
+      },
+      {
+        "t": "You can hate all of it.",
+        "em": "hate",
+        "s": "poet@1"
+      },
+      {
+        "t": "You will still lose.",
+        "em": "lose",
+        "s": "grad@1"
+      },
+      {
+        "t": "Because you are fighting a fact.",
+        "em": "a fact",
+        "s": "stone@0"
+      },
+      {
+        "t": "And facts do not negotiate.",
+        "em": "negotiate",
+        "s": "factory@1"
+      },
+      {
+        "t": "Gravity does not care how right you are.",
+        "em": "how right",
+        "s": "fall@0"
+      },
+      {
+        "t": "This is not giving up.",
+        "em": "not",
+        "s": "sail@1"
+      },
+      {
+        "t": "It is the opposite of that.",
+        "em": "opposite",
+        "s": "sail@0"
+      },
+      {
+        "t": "Energy spent on gravity is gone.",
+        "em": "gone",
+        "s": "scale@0"
+      },
+      {
+        "t": "It buys you nothing.",
+        "em": "nothing",
+        "s": "stone@1"
+      },
+      {
+        "t": "Spend it on the movable parts.",
+        "em": "movable",
+        "s": "tools@0"
+      },
+      {
+        "t": "Where you live. Who you know.",
+        "em": "Who",
+        "s": "tools@1"
+      },
+      {
+        "t": "What you are building tonight.",
+        "em": "building",
+        "s": "workshop@0"
+      },
+      {
+        "t": "Accept the fact. Then move.",
+        "em": "Then move",
+        "s": "workshop@1"
+      }
+    ]
+  },
+  "log": {
+    "title": "A Two Week Log Beats Guessing",
+    "beats": [
+      {
+        "t": "You do not know what you want.",
+        "em": "do not know",
+        "s": "blank@0"
+      },
+      {
+        "t": "That is completely fine.",
+        "em": "fine",
+        "s": "blank@1"
+      },
+      {
+        "t": "Guessing will never tell you.",
+        "em": "never",
+        "s": "dice@0"
+      },
+      {
+        "t": "Two weeks of notes will.",
+        "em": "notes",
+        "s": "notebook@0"
+      },
+      {
+        "t": "Here is the whole method.",
+        "em": "whole",
+        "s": "notebook@1"
+      },
+      {
+        "t": "End of each day, two lines.",
+        "em": "two lines",
+        "s": "pen@0"
+      },
+      {
+        "t": "When was I absorbed?",
+        "em": "absorbed",
+        "s": "pen@1"
+      },
+      {
+        "t": "When did time disappear?",
+        "em": "disappear",
+        "s": "clockface@0"
+      },
+      {
+        "t": "That is genuinely it.",
+        "em": "genuinely",
+        "s": "!navy:TWO LINES"
+      },
+      {
+        "t": "Two lines. Fourteen days.",
+        "em": "Fourteen",
+        "s": "calendar@0"
+      },
+      {
+        "t": "Do not analyse. Just write.",
+        "em": "Just write",
+        "s": "pen@0"
+      },
+      {
+        "t": "Then read the whole thing back.",
+        "em": "read",
+        "s": "notebook@0"
+      },
+      {
+        "t": "You will find something ugly.",
+        "em": "ugly",
+        "s": "lamp@0"
+      },
+      {
+        "t": "The thing you are proud of",
+        "em": "proud",
+        "s": "trophy@0"
+      },
+      {
+        "t": "is not the thing you enjoyed.",
+        "em": "not",
+        "s": "!red:NOT THE SAME"
+      },
+      {
+        "t": "The meeting you dreaded",
+        "em": "dreaded",
+        "s": "meeting@0"
+      },
+      {
+        "t": "was the best hour of the week.",
+        "em": "best hour",
+        "s": "meeting@1"
+      },
+      {
+        "t": "You would never have guessed.",
+        "em": "never",
+        "s": "dice@1"
+      },
+      {
+        "t": "Nobody ever guesses it.",
+        "em": "Nobody",
+        "s": "blank@0"
+      },
+      {
+        "t": "Your memory edits everything.",
+        "em": "edits",
+        "s": "lamp@1"
+      },
+      {
+        "t": "It keeps the story, not the truth.",
+        "em": "not the truth",
+        "s": "trophy@1"
+      },
+      {
+        "t": "Notes do not edit.",
+        "em": "do not",
+        "s": "notebook@1"
+      },
+      {
+        "t": "Fourteen days costs you nothing.",
+        "em": "nothing",
+        "s": "calendar@1"
+      },
+      {
+        "t": "Guessing has cost you years.",
+        "em": "years",
+        "s": "clockface@0"
+      },
+      {
+        "t": "Start it tonight.",
+        "em": "tonight",
+        "s": "lamp@0"
+      }
+    ]
+  },
+  "threelives": {
+    "title": "You Have Three Next Jobs",
+    "beats": [
+      {
+        "t": "You do not have one next job.",
+        "em": "one",
+        "s": "onepath@0"
+      },
+      {
+        "t": "You have three.",
+        "em": "three",
+        "s": "threepaths@0"
+      },
+      {
+        "t": "Write all three down.",
+        "em": "all three",
+        "s": "threepaths@1"
+      },
+      {
+        "t": "First one: the obvious path.",
+        "em": "obvious",
+        "s": "onepath@1"
+      },
+      {
+        "t": "What you would do if nothing changed.",
+        "em": "nothing changed",
+        "s": "commute@0"
+      },
+      {
+        "t": "Easy. Boring. Write it anyway.",
+        "em": "anyway",
+        "s": "commute@1"
+      },
+      {
+        "t": "Second: what if that vanished?",
+        "em": "vanished",
+        "s": "!red:GONE TOMORROW"
+      },
+      {
+        "t": "Your whole industry, gone tomorrow.",
+        "em": "whole industry",
+        "s": "shutter@0"
+      },
+      {
+        "t": "What would you do instead?",
+        "em": "instead",
+        "s": "shutter@1"
+      },
+      {
+        "t": "Do not say you don't know.",
+        "em": "don't know",
+        "s": "blank@0"
+      },
+      {
+        "t": "Something always comes out.",
+        "em": "always",
+        "s": "blank@1"
+      },
+      {
+        "t": "Third: money and image don't matter.",
+        "em": "don't matter",
+        "s": "mask@0"
+      },
+      {
+        "t": "Nobody is watching or judging.",
+        "em": "Nobody",
+        "s": "mask@1"
+      },
+      {
+        "t": "What then?",
+        "em": "then",
+        "s": "!navy:WHAT THEN"
+      },
+      {
+        "t": "Give each one a title.",
+        "em": "title",
+        "s": "board@0"
+      },
+      {
+        "t": "And one question you cannot answer.",
+        "em": "cannot answer",
+        "s": "board@1"
+      },
+      {
+        "t": "Here is what that does.",
+        "em": "does",
+        "s": "threepaths@0"
+      },
+      {
+        "t": "You stop defending one plan.",
+        "em": "defending",
+        "s": "onepath@0"
+      },
+      {
+        "t": "Plans get defended. Options get tested.",
+        "em": "tested",
+        "s": "lab@0"
+      },
+      {
+        "t": "Suddenly you are not trapped.",
+        "em": "trapped",
+        "s": "lab@1"
+      },
+      {
+        "t": "You are choosing.",
+        "em": "choosing",
+        "s": "fork@0"
+      },
+      {
+        "t": "Same job market. Same CV.",
+        "em": "Same",
+        "s": "commute@0"
+      },
+      {
+        "t": "Completely different feeling.",
+        "em": "different",
+        "s": "fork@1"
+      },
+      {
+        "t": "Three lives, all real.",
+        "em": "all",
+        "s": "threepaths@1"
+      },
+      {
+        "t": "Pick the one worth testing.",
+        "em": "testing",
+        "s": "lab@0"
+      }
+    ]
+  },
+  "prototype": {
+    "title": "Try The Job Before You Take It",
+    "beats": [
+      {
+        "t": "Never take a job you have not tried.",
+        "em": "not tried",
+        "s": "leap@0"
+      },
+      {
+        "t": "You would test drive a car.",
+        "em": "test drive",
+        "s": "car@0"
+      },
+      {
+        "t": "You test a job with coffee.",
+        "em": "coffee",
+        "s": "coffee@0"
+      },
+      {
+        "t": "One hour. One person.",
+        "em": "One hour",
+        "s": "coffee@1"
+      },
+      {
+        "t": "Someone already doing that job.",
+        "em": "already doing",
+        "s": "worker@0"
+      },
+      {
+        "t": "Not a recruiter.",
+        "em": "Not",
+        "s": "!navy:NOT A RECRUITER"
+      },
+      {
+        "t": "Not a careers page.",
+        "em": "Not",
+        "s": "screen@0"
+      },
+      {
+        "t": "A human doing the actual work.",
+        "em": "actual",
+        "s": "worker@1"
+      },
+      {
+        "t": "Ask what a Tuesday looks like.",
+        "em": "Tuesday",
+        "s": "tuesday@0"
+      },
+      {
+        "t": "Not the mission. The Tuesday.",
+        "em": "Tuesday",
+        "s": "tuesday@1"
+      },
+      {
+        "t": "What is the worst part?",
+        "em": "worst",
+        "s": "worker@0"
+      },
+      {
+        "t": "Who burns out here, and why?",
+        "em": "burns out",
+        "s": "burn@0"
+      },
+      {
+        "t": "One hour tells you more",
+        "em": "One hour",
+        "s": "clockface@0"
+      },
+      {
+        "t": "than six months of reading.",
+        "em": "six months",
+        "s": "screen@1"
+      },
+      {
+        "t": "Because you get the texture.",
+        "em": "texture",
+        "s": "hands@0"
+      },
+      {
+        "t": "The stuff nobody writes down.",
+        "em": "nobody",
+        "s": "hands@1"
+      },
+      {
+        "t": "And here is the bonus.",
+        "em": "bonus",
+        "s": "!red:THE BONUS"
+      },
+      {
+        "t": "They remember you.",
+        "em": "remember",
+        "s": "handshake@0"
+      },
+      {
+        "t": "When a role opens up,",
+        "em": "opens",
+        "s": "door@0"
+      },
+      {
+        "t": "you are already a face.",
+        "em": "a face",
+        "s": "handshake@1"
+      },
+      {
+        "t": "Not an application.",
+        "em": "Not",
+        "s": "screen@0"
+      },
+      {
+        "t": "Do this three separate times.",
+        "em": "three",
+        "s": "car@1"
+      },
+      {
+        "t": "Three coffees. Three industries.",
+        "em": "Three",
+        "s": "coffee@0"
+      },
+      {
+        "t": "You will rule out two.",
+        "em": "rule out",
+        "s": "burn@1"
+      },
+      {
+        "t": "That is exactly the point.",
+        "em": "exactly",
+        "s": "door@1"
+      }
+    ]
+  },
+  "degree": {
+    "title": "Your Degree Decided Nothing",
+    "beats": [
+      {
+        "t": "Your degree decided nothing.",
+        "em": "nothing",
+        "s": "scroll@0"
+      },
+      {
+        "t": "Look around you.",
+        "em": "around you",
+        "s": "office@0"
+      },
+      {
+        "t": "The history graduate in sales.",
+        "em": "sales",
+        "s": "office@1"
+      },
+      {
+        "t": "The engineer running a kitchen.",
+        "em": "kitchen",
+        "s": "kitchen@0"
+      },
+      {
+        "t": "The lawyer who teaches.",
+        "em": "teaches",
+        "s": "classroom@0"
+      },
+      {
+        "t": "None of that was the plan.",
+        "em": "None",
+        "s": "!navy:NOT THE PLAN"
+      },
+      {
+        "t": "Here is the uncomfortable part.",
+        "em": "uncomfortable",
+        "s": "teen@0"
+      },
+      {
+        "t": "You were eighteen.",
+        "em": "eighteen",
+        "s": "teen@1"
+      },
+      {
+        "t": "You picked from a printed list.",
+        "em": "picked",
+        "s": "prospectus@0"
+      },
+      {
+        "t": "You knew almost nothing.",
+        "em": "almost nothing",
+        "s": "prospectus@1"
+      },
+      {
+        "t": "And you have obeyed it",
+        "em": "obeyed",
+        "s": "scroll@1"
+      },
+      {
+        "t": "for years afterwards.",
+        "em": "years",
+        "s": "clockface@0"
+      },
+      {
+        "t": "Like it was a binding contract.",
+        "em": "contract",
+        "s": "contract@0"
+      },
+      {
+        "t": "It was not.",
+        "em": "not",
+        "s": "!red:NOT A CONTRACT"
+      },
+      {
+        "t": "It was a subject.",
+        "em": "subject",
+        "s": "classroom@1"
+      },
+      {
+        "t": "A subject you studied once.",
+        "em": "once",
+        "s": "teen@0"
+      },
+      {
+        "t": "Not a sentence you serve.",
+        "em": "sentence",
+        "s": "contract@1"
+      },
+      {
+        "t": "Employers care less than you think.",
+        "em": "less",
+        "s": "office@0"
+      },
+      {
+        "t": "After your first real job,",
+        "em": "first",
+        "s": "kitchen@1"
+      },
+      {
+        "t": "they barely look at it.",
+        "em": "barely",
+        "s": "scroll@0"
+      },
+      {
+        "t": "They look at what you've done.",
+        "em": "you've done",
+        "s": "hands@0"
+      },
+      {
+        "t": "So stop introducing yourself with it.",
+        "em": "stop",
+        "s": "prospectus@0"
+      },
+      {
+        "t": "Lead with what you can do.",
+        "em": "Lead",
+        "s": "hands@1"
+      },
+      {
+        "t": "That eighteen year old guessed.",
+        "em": "guessed",
+        "s": "teen@1"
+      },
+      {
+        "t": "You have evidence now.",
+        "em": "evidence",
+        "s": "office@1"
+      }
+    ]
   }
 }
