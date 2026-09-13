@@ -55,3 +55,37 @@ is the same shape and position every beat, so the eye never hunts for it.
 voice 350, measured at 2.44 words per second, so runtime is `words / 2.44`.
 Stills are Magnific text-to-image at 75 credits each; twelve stills and one
 narration came to 1,028 credits.
+
+## The finished batch
+
+Twelve reels, all Photo Cut, all under the ninety second Reels ceiling.
+
+| reel | runtime | cuts | average shot |
+|---|---|---|---|
+| You Might Not Need A New Job | 47.7s | 35 | 1.36s |
+| Follow Your Passion Is Bad Advice | 46.8s | 37 | 1.27s |
+| It Is Not Too Late | 52.1s | 36 | 1.45s |
+| Apply At Sixty Percent | 52.0s | 42 | 1.24s |
+| Being Good At It Is The Trap | 46.8s | 37 | 1.27s |
+| You Are Solving The Wrong Problem | 47.9s | 40 | 1.20s |
+| Stop Asking For A Job | 51.8s | 38 | 1.36s |
+| Some Of Your Problems Are Gravity | 55.5s | 41 | 1.35s |
+| A Two Week Log Beats Guessing | 49.1s | 39 | 1.26s |
+| You Have Three Next Jobs | 57.8s | 42 | 1.38s |
+| Try The Job Before You Take It | 51.9s | 39 | 1.33s |
+| Your Degree Decided Nothing | 45.4s | 38 | 1.19s |
+
+Palette conformance, measured on the delivered files at two frames a second:
+mean distance from the locked ramp runs 6.2 to 7.2 of 255 across the eleven
+reels, worst single frame 12.4. That is JPEG noise, so nothing drifted.
+
+Cost for the eleven: 102 stills at 75 credits and eleven narrations at about
+130, roughly 9,100 Magnific credits. No Higgsfield image or video credits were
+spent; the sandbox was used only for ffmpeg, whisper and the frame renderer.
+
+## A note on assets/urls.json
+
+`resolve.py` needs a `urls.json` next to it mapping each still identifier to its
+production id and signature. That file is generated per batch and git-ignored,
+because the signatures it carries expire two days after the stills are made. To
+rebuild a reel after that, regenerate the stills and write a fresh map.

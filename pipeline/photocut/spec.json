@@ -266,7 +266,14 @@
         "em": "always",
         "s": "climb@1"
       }
-    ]
+    ],
+    "output": {
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/b1fd6eb7-8a0d-44b7-a643-ddc494ad6804.mp4",
+      "media_id": "b1fd6eb7-8a0d-44b7-a643-ddc494ad6804",
+      "seconds": 46.82,
+      "cuts": 37,
+      "avg_shot_sec": 1.27
+    }
   },
   "toolate": {
     "title": "It Is Not Too Late",
@@ -396,7 +403,14 @@
         "em": "forwards",
         "s": "road@1"
       }
-    ]
+    ],
+    "output": {
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/2c00fa93-1531-491c-8154-1c8d5059c729.mp4",
+      "media_id": "2c00fa93-1531-491c-8154-1c8d5059c729",
+      "seconds": 52.1,
+      "cuts": 36,
+      "avg_shot_sec": 1.45
+    }
   },
   "qualified": {
     "title": "Apply At Sixty Percent",
@@ -526,7 +540,14 @@
         "em": "Stop",
         "s": "send@0"
       }
-    ]
+    ],
+    "output": {
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/7e8efc2c-9494-41ab-9855-232b6bf69036.mp4",
+      "media_id": "7e8efc2c-9494-41ab-9855-232b6bf69036",
+      "seconds": 52.02,
+      "cuts": 42,
+      "avg_shot_sec": 1.24
+    }
   },
   "goodatit": {
     "title": "Being Good At It Is The Trap",
@@ -656,7 +677,14 @@
         "em": "Except",
         "s": "door@1"
       }
-    ]
+    ],
+    "output": {
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/58e156dd-8e29-4373-84c3-0e639ae9cbbd.mp4",
+      "media_id": "58e156dd-8e29-4373-84c3-0e639ae9cbbd",
+      "seconds": 46.82,
+      "cuts": 37,
+      "avg_shot_sec": 1.27
+    }
   },
   "wrongproblem": {
     "title": "You Are Solving The Wrong Problem",
@@ -786,7 +814,14 @@
         "em": "uninvited",
         "s": "boxes@1"
       }
-    ]
+    ],
+    "output": {
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/b6e03b71-312d-4103-8ec4-093cfb1b92a9.mp4",
+      "media_id": "b6e03b71-312d-4103-8ec4-093cfb1b92a9",
+      "seconds": 47.94,
+      "cuts": 40,
+      "avg_shot_sec": 1.2
+    }
   },
   "story": {
     "title": "Stop Asking For A Job",
@@ -916,7 +951,14 @@
         "em": "Curiosity",
         "s": "door@0"
       }
-    ]
+    ],
+    "output": {
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/8a5fe194-025d-4741-beb9-6955652c31f5.mp4",
+      "media_id": "8a5fe194-025d-4741-beb9-6955652c31f5",
+      "seconds": 51.77,
+      "cuts": 38,
+      "avg_shot_sec": 1.36
+    }
   },
   "gravity": {
     "title": "Some Of Your Problems Are Gravity",
@@ -1046,7 +1088,14 @@
         "em": "Then move",
         "s": "workshop@1"
       }
-    ]
+    ],
+    "output": {
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/50bb0f96-9e7e-4d03-ab79-8a53758b4cae.mp4",
+      "media_id": "50bb0f96-9e7e-4d03-ab79-8a53758b4cae",
+      "seconds": 55.47,
+      "cuts": 41,
+      "avg_shot_sec": 1.35
+    }
   },
   "log": {
     "title": "A Two Week Log Beats Guessing",
@@ -1176,7 +1225,14 @@
         "em": "tonight",
         "s": "lamp@0"
       }
-    ]
+    ],
+    "output": {
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/981226ab-f464-4101-ab17-85a1a392b456.mp4",
+      "media_id": "981226ab-f464-4101-ab17-85a1a392b456",
+      "seconds": 49.13,
+      "cuts": 39,
+      "avg_shot_sec": 1.26
+    }
   },
   "threelives": {
     "title": "You Have Three Next Jobs",
@@ -1306,7 +1362,14 @@
         "em": "testing",
         "s": "lab@0"
       }
-    ]
+    ],
+    "output": {
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/60cabb91-8922-4b1b-b934-b165b3debc76.mp4",
+      "media_id": "60cabb91-8922-4b1b-b934-b165b3debc76",
+      "seconds": 57.77,
+      "cuts": 42,
+      "avg_shot_sec": 1.38
+    }
   },
   "prototype": {
     "title": "Try The Job Before You Take It",
@@ -1436,7 +1499,14 @@
         "em": "exactly",
         "s": "door@1"
       }
-    ]
+    ],
+    "output": {
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/5f1170e6-a327-4bcd-9ea9-84fc016ad63b.mp4",
+      "media_id": "5f1170e6-a327-4bcd-9ea9-84fc016ad63b",
+      "seconds": 51.87,
+      "cuts": 39,
+      "avg_shot_sec": 1.33
+    }
   },
   "degree": {
     "title": "Your Degree Decided Nothing",
@@ -1566,6 +1636,13 @@
         "em": "evidence",
         "s": "office@1"
       }
-    ]
+    ],
+    "output": {
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38wUSxud7GQiZyfLVI2S9e8x9HR/db1f3bda-1684-47e0-ac9d-974ecebb4726.mp4",
+      "media_id": "db1f3bda-1684-47e0-ac9d-974ecebb4726",
+      "seconds": 45.37,
+      "cuts": 38,
+      "avg_shot_sec": 1.19
+    }
   }
 }
